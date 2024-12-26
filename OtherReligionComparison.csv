@@ -1,0 +1,683 @@
+Location,Gender,Population,Percentage Population
+England and Wales,Female,195515,14.193827066386442
+England and Wales,Male,152820,11.094292776948961
+England,Female,186110,13.511051097487051
+England,Male,146300,10.620959516212753
+Wales,Female,9405,0.6827759688993912
+Wales,Male,6520,0.47333326073620746
+North East,Female,5755,0.4177964594381708
+North East,Male,4195,0.30454494306570407
+North West,Female,15915,1.155383258376801
+North West,Male,12185,0.8845959788451976
+Yorkshire and The Humber,Female,13260,0.9626378891659679
+Yorkshire and The Humber,Male,10360,0.7521062241145874
+East Midlands,Female,14190,1.0301532162341693
+East Midlands,Male,10625,0.7713444624727307
+West Midlands,Female,17455,1.267182832231672
+West Midlands,Male,14350,1.0417687563749352
+East of England,Female,20540,1.491144965570813
+East of England,Male,15840,1.1499384739358167
+London,Female,46325,3.363061856381106
+London,Male,40435,2.935464784949164
+South East,Female,30720,2.230183707027039
+South East,Male,23375,1.6969578174400077
+South West,Female,21950,1.593506913061312
+South West,Male,14935,1.0842380750146101
+Hartlepool,Female,175,0.012704497028962624
+Hartlepool,Male,110,0.007985684
+Middlesbrough,Female,250,0.018149281469946606
+Middlesbrough,Male,210,0.015245396434755148
+Redcar and Cleveland,Female,290,0.021053167
+Redcar and Cleveland,Male,205,0.014882410805356214
+Stockton-on-Tees,Female,325,0.023594065910930585
+Stockton-on-Tees,Male,225,0.016334353322951946
+Darlington,Female,225,0.016334353322951946
+Darlington,Male,180,0.013067482658361555
+Halton,Female,235,0.017060324581749806
+Halton,Male,215,0.015608382
+Warrington,Female,460,0.033394677904701756
+Warrington,Male,330,0.023957052
+Blackburn with Darwen,Female,250,0.018149281469946606
+Blackburn with Darwen,Male,190,0.013793454
+Blackpool,Female,395,0.028675864722515636
+Blackpool,Male,310,0.022505109
+Kingston upon Hull,Female,610,0.044284246786669715
+Kingston upon Hull,Male,515,0.03738752
+East Riding of Yorkshire,Female,700,0.050817988
+East Riding of Yorkshire,Male,525,0.038113491
+North East Lincolnshire,Female,385,0.027949893
+North East Lincolnshire,Male,265,0.019238238
+North Lincolnshire,Female,355,0.025771979687324177
+North Lincolnshire,Male,255,0.018512267099345538
+York,Female,690,0.050092017
+York,Male,575,0.041743347
+Derby,Female,770,0.055899787
+Derby,Male,525,0.038113491
+Leicester,Female,1100,0.079856838
+Leicester,Male,975,0.070782198
+Rutland,Female,90,0.006533741
+Rutland,Male,110,0.007985684
+Nottingham,Female,1215,0.088205508
+Nottingham,Male,1050,0.076226982
+Herefordshire,Female,540,0.039202448
+Herefordshire,Male,360,0.026134965
+Telford and Wrekin,Female,530,0.038476477
+Telford and Wrekin,Male,400,0.02903885
+Stoke-on-Trent,Female,685,0.049729031227653694
+Stoke-on-Trent,Male,465,0.033757664
+Bath and North East Somerset,Female,675,0.04900306
+Bath and North East Somerset,Male,425,0.030853778
+Bristol,Female,1970,0.14301633798317925
+Bristol,Male,1575,0.11434047326066361
+North Somerset,Female,720,0.052269931
+North Somerset,Male,445,0.032305721
+South Gloucestershire,Female,750,0.054447844
+South Gloucestershire,Male,570,0.041380362
+Plymouth,Female,965,0.070056226
+Plymouth,Male,565,0.041017376
+Torbay,Female,625,0.045373204
+Torbay,Male,355,0.025771979687324177
+Swindon,Female,825,0.059892629
+Swindon,Male,690,0.050092017
+Peterborough,Female,580,0.042106333
+Peterborough,Male,420,0.030490792869510296
+Luton,Female,575,0.041743347
+Luton,Male,540,0.039202448
+Southend-on-Sea,Female,685,0.049729031227653694
+Southend-on-Sea,Male,440,0.031942735
+Thurrock,Female,475,0.034483635
+Thurrock,Male,425,0.030853778
+Medway,Female,955,0.069330255
+Medway,Male,750,0.054447844
+Bracknell Forest,Female,410,0.029764822
+Bracknell Forest,Male,335,0.024320037
+West Berkshire,Female,425,0.030853778
+West Berkshire,Male,280,0.020327195246340198
+Reading,Female,645,0.046825146
+Reading,Male,595,0.04319529
+Slough,Female,370,0.026860936575520977
+Slough,Male,345,0.025046008428526317
+Windsor and Maidenhead,Female,395,0.028675864722515636
+Windsor and Maidenhead,Male,295,0.021416152134536993
+Wokingham,Female,440,0.031942735
+Wokingham,Male,335,0.024320037
+Milton Keynes,Female,900,0.065337413
+Milton Keynes,Male,660,0.047914103
+Brighton and Hove,Female,1650,0.1197852577016476
+Brighton and Hove,Male,1210,0.087842522
+Portsmouth,Female,740,0.053721873
+Portsmouth,Male,520,0.037750505
+Southampton,Female,935,0.067878313
+Southampton,Male,725,0.052632916
+Isle of Wight,Female,670,0.048640074
+Isle of Wight,Male,445,0.032305721
+County Durham,Female,1290,0.093650292
+County Durham,Male,910,0.066063385
+Cheshire East,Female,970,0.070419212
+Cheshire East,Male,590,0.042832304
+Cheshire West and Chester,Female,710,0.051543959374648354
+Cheshire West and Chester,Male,525,0.038113491
+Shropshire,Female,855,0.062070543
+Shropshire,Male,630,0.045736189
+Cornwall and Isles of Scilly,Female,2720,0.19746418239301905
+Cornwall and Isles of Scilly,Male,1680,0.12196317147804119
+Wiltshire,Female,1820,0.1321267691012113
+Wiltshire,Male,1405,0.10199896186109993
+Bedford,Female,1045,0.075863997
+Bedford,Male,970,0.070419212
+Central Bedfordshire,Female,820,0.059529643
+Central Bedfordshire,Male,545,0.039565434
+Northumberland,Female,765,0.055536801
+Northumberland,Male,585,0.042469318639675055
+"Bournemouth, Christchurch and Poole",Female,1765,0.12813392717782304
+"Bournemouth, Christchurch and Poole",Male,1180,0.085664609
+Dorset,Female,1390,0.10091000497290312
+Dorset,Male,970,0.070419212
+Buckinghamshire,Female,1405,0.10199896186109993
+Buckinghamshire,Male,1180,0.085664609
+North Northamptonshire,Female,1060,0.076952953
+North Northamptonshire,Male,840,0.060981586
+West Northamptonshire,Female,1355,0.098369106
+West Northamptonshire,Male,1050,0.076226982
+Cambridge,Female,630,0.045736189
+Cambridge,Male,490,0.035572592
+East Cambridgeshire,Female,280,0.020327195246340198
+East Cambridgeshire,Male,215,0.015608382
+Fenland,Female,285,0.020690181
+Fenland,Male,230,0.016697338952350878
+Huntingdonshire,Female,495,0.035935577
+Huntingdonshire,Male,405,0.029401836
+South Cambridgeshire,Female,470,0.034120649
+South Cambridgeshire,Male,350,0.025408994
+Allerdale,Female,185,0.013430468287760488
+Allerdale,Male,115,0.008348669
+Barrow-in-Furness,Female,145,0.010526583
+Barrow-in-Furness,Male,100,0.007259713
+Carlisle,Female,245,0.017786295840547674
+Carlisle,Male,165,0.011978526
+Copeland,Female,140,0.010163597623170099
+Copeland,Male,100,0.007259713
+Eden,Female,130,0.009437626
+Eden,Male,115,0.008348669
+South Lakeland,Female,270,0.019601223987542334
+South Lakeland,Male,190,0.013793454
+Amber Valley,Female,440,0.031942735
+Amber Valley,Male,280,0.020327195246340198
+Bolsover,Female,190,0.013793454
+Bolsover,Male,145,0.010526583
+Chesterfield,Female,280,0.020327195246340198
+Chesterfield,Male,215,0.015608382
+Derbyshire Dales,Female,195,0.01415644
+Derbyshire Dales,Male,135,0.009800612
+Erewash,Female,355,0.025771979687324177
+Erewash,Male,245,0.017786295840547674
+High Peak,Female,290,0.021053167
+High Peak,Male,200,0.014519425175957284
+North East Derbyshire,Female,270,0.019601223987542334
+North East Derbyshire,Male,130,0.009437626
+South Derbyshire,Female,290,0.021053167
+South Derbyshire,Male,205,0.014882410805356214
+East Devon,Female,490,0.035572592
+East Devon,Male,320,0.023231080281531653
+Exeter,Female,505,0.036661549
+Exeter,Male,360,0.026134965
+Mid Devon,Female,310,0.022505109
+Mid Devon,Male,195,0.01415644
+North Devon,Female,360,0.026134965
+North Devon,Male,210,0.015245396434755148
+South Hams,Female,445,0.032305721
+South Hams,Male,295,0.021416152134536993
+Teignbridge,Female,580,0.042106333
+Teignbridge,Male,375,0.027223922
+Torridge,Female,260,0.018875253
+Torridge,Male,175,0.012704497028962624
+West Devon,Female,270,0.019601223987542334
+West Devon,Male,190,0.013793454
+Eastbourne,Female,455,0.033031692275302824
+Eastbourne,Male,295,0.021416152134536993
+Hastings,Female,475,0.034483635
+Hastings,Male,340,0.024683023
+Lewes,Female,450,0.032668707
+Lewes,Male,305,0.022142123393334857
+Rother,Female,310,0.022505109
+Rother,Male,205,0.014882410805356214
+Wealden,Female,725,0.052632916
+Wealden,Male,575,0.041743347
+Basildon,Female,440,0.031942735
+Basildon,Male,290,0.021053167
+Braintree,Female,390,0.028312879
+Braintree,Male,285,0.020690181
+Brentwood,Female,155,0.011252554511366895
+Brentwood,Male,105,0.007622698
+Castle Point,Female,205,0.014882410805356214
+Castle Point,Male,135,0.009800612
+Chelmsford,Female,430,0.031216764
+Chelmsford,Male,330,0.023957052
+Colchester,Female,660,0.047914103
+Colchester,Male,485,0.035209606051696415
+Epping Forest,Female,465,0.033757664
+Epping Forest,Male,405,0.029401836
+Harlow,Female,325,0.023594065910930585
+Harlow,Male,285,0.020690181
+Maldon,Female,180,0.013067482658361555
+Maldon,Male,95,0.006896727
+Rochford,Female,200,0.014519425175957284
+Rochford,Male,135,0.009800612
+Tendring,Female,425,0.030853778
+Tendring,Male,270,0.019601223987542334
+Uttlesford,Female,235,0.017060324581749806
+Uttlesford,Male,145,0.010526583
+Cheltenham,Female,375,0.027223922
+Cheltenham,Male,245,0.017786295840547674
+Cotswold,Female,245,0.017786295840547674
+Cotswold,Male,175,0.012704497028962624
+Forest of Dean,Female,310,0.022505109
+Forest of Dean,Male,210,0.015245396434755148
+Gloucester,Female,380,0.027586908
+Gloucester,Male,275,0.019964209616941266
+Stroud,Female,535,0.038839462345685735
+Stroud,Male,365,0.026497951
+Tewkesbury,Female,235,0.017060324581749806
+Tewkesbury,Male,160,0.011615540140765827
+Basingstoke and Deane,Female,650,0.047188132
+Basingstoke and Deane,Male,490,0.035572592
+East Hampshire,Female,370,0.026860936575520977
+East Hampshire,Male,220,0.015971368
+Eastleigh,Female,345,0.025046008428526317
+Eastleigh,Male,285,0.020690181
+Fareham,Female,280,0.020327195246340198
+Fareham,Male,215,0.015608382
+Gosport,Female,330,0.023957052
+Gosport,Male,190,0.013793454
+Hart,Female,225,0.016334353322951946
+Hart,Male,180,0.013067482658361555
+Havant,Female,390,0.028312879
+Havant,Male,230,0.016697338952350878
+New Forest,Female,625,0.045373204
+New Forest,Male,380,0.027586908
+Rushmoor,Female,615,0.044647232
+Rushmoor,Male,630,0.045736189
+Test Valley,Female,335,0.024320037
+Test Valley,Male,260,0.018875253
+Winchester,Female,400,0.02903885
+Winchester,Male,275,0.019964209616941266
+Broxbourne,Female,830,0.060255614
+Broxbourne,Male,770,0.055899787
+Dacorum,Female,455,0.033031692275302824
+Dacorum,Male,295,0.021416152134536993
+Hertsmere,Female,580,0.042106333
+Hertsmere,Male,540,0.039202448
+North Hertfordshire,Female,445,0.032305721
+North Hertfordshire,Male,285,0.020690181
+Three Rivers,Female,445,0.032305721
+Three Rivers,Male,425,0.030853778
+Watford,Female,445,0.032305721
+Watford,Male,410,0.029764822
+Ashford,Female,800,0.058077701
+Ashford,Male,730,0.052995902
+Canterbury,Female,650,0.047188132
+Canterbury,Male,495,0.035935577
+Dartford,Female,255,0.018512267099345538
+Dartford,Male,210,0.015245396434755148
+Dover,Female,380,0.027586908
+Dover,Male,270,0.019601223987542334
+Gravesham,Female,365,0.026497951
+Gravesham,Male,300,0.021779137763935925
+Maidstone,Female,580,0.042106333
+Maidstone,Male,540,0.039202448
+Sevenoaks,Female,270,0.019601223987542334
+Sevenoaks,Male,145,0.010526583
+Folkestone and Hythe,Female,530,0.038476477
+Folkestone and Hythe,Male,445,0.032305721
+Swale,Female,365,0.026497951
+Swale,Male,305,0.022142123393334857
+Thanet,Female,505,0.036661549
+Thanet,Male,360,0.026134965
+Tonbridge and Malling,Female,310,0.022505109
+Tonbridge and Malling,Male,200,0.014519425175957284
+Tunbridge Wells,Female,320,0.023231080281531653
+Tunbridge Wells,Male,240,0.01742331
+Burnley,Female,205,0.014882410805356214
+Burnley,Male,150,0.010889568881967963
+Chorley,Female,260,0.018875253
+Chorley,Male,275,0.019964209616941266
+Fylde,Female,180,0.013067482658361555
+Fylde,Male,145,0.010526583
+Hyndburn,Female,200,0.014519425175957284
+Hyndburn,Male,140,0.010163597623170099
+Lancaster,Female,465,0.033757664
+Lancaster,Male,345,0.025046008428526317
+Pendle,Female,175,0.012704497028962624
+Pendle,Male,180,0.013067482658361555
+Preston,Female,345,0.025046008428526317
+Preston,Male,265,0.019238238
+Ribble Valley,Female,90,0.006533741
+Ribble Valley,Male,70,0.005081799
+Rossendale,Female,200,0.014519425175957284
+Rossendale,Male,130,0.009437626
+South Ribble,Female,230,0.016697338952350878
+South Ribble,Male,150,0.010889568881967963
+West Lancashire,Female,215,0.015608382
+West Lancashire,Male,145,0.010526583
+Wyre,Female,270,0.019601223987542334
+Wyre,Male,210,0.015245396434755148
+Blaby,Female,245,0.017786295840547674
+Blaby,Male,165,0.011978526
+Charnwood,Female,545,0.039565434
+Charnwood,Male,410,0.029764822
+Harborough,Female,220,0.015971368
+Harborough,Male,160,0.011615540140765827
+Hinckley and Bosworth,Female,330,0.023957052
+Hinckley and Bosworth,Male,230,0.016697338952350878
+Melton,Female,115,0.008348669
+Melton,Male,65,0.004718813
+North West Leicestershire,Female,270,0.019601223987542334
+North West Leicestershire,Male,195,0.01415644
+Oadby and Wigston,Female,180,0.013067482658361555
+Oadby and Wigston,Male,150,0.010889568881967963
+Boston,Female,155,0.011252554511366895
+Boston,Male,125,0.009074641
+East Lindsey,Female,420,0.030490792869510296
+East Lindsey,Male,270,0.019601223987542334
+Lincoln,Female,460,0.033394677904701756
+Lincoln,Male,335,0.024320037
+North Kesteven,Female,325,0.023594065910930585
+North Kesteven,Male,225,0.016334353322951946
+South Holland,Female,270,0.019601223987542334
+South Holland,Male,145,0.010526583
+South Kesteven,Female,340,0.024683023
+South Kesteven,Male,235,0.017060324581749806
+West Lindsey,Female,280,0.020327195246340198
+West Lindsey,Male,200,0.014519425175957284
+Breckland,Female,470,0.034120649
+Breckland,Male,335,0.024320037
+Broadland,Female,335,0.024320037
+Broadland,Male,240,0.01742331
+Great Yarmouth,Female,330,0.023957052
+Great Yarmouth,Male,210,0.015245396434755148
+King's Lynn and West Norfolk,Female,470,0.034120649
+King's Lynn and West Norfolk,Male,325,0.023594065910930585
+North Norfolk,Female,380,0.027586908
+North Norfolk,Male,260,0.018875253
+Norwich,Female,720,0.052269931
+Norwich,Male,565,0.041017376
+South Norfolk,Female,405,0.029401836
+South Norfolk,Male,260,0.018875253
+Craven,Female,150,0.010889568881967963
+Craven,Male,105,0.007622698
+Hambleton,Female,185,0.013430468287760488
+Hambleton,Male,140,0.010163597623170099
+Harrogate,Female,370,0.026860936575520977
+Harrogate,Male,300,0.021779137763935925
+Richmondshire,Female,135,0.009800612
+Richmondshire,Male,220,0.015971368
+Ryedale,Female,145,0.010526583
+Ryedale,Male,90,0.006533741
+Scarborough,Female,335,0.024320037
+Scarborough,Male,215,0.015608382
+Selby,Female,220,0.015971368
+Selby,Male,145,0.010526583
+Ashfield,Female,350,0.025408994
+Ashfield,Male,245,0.017786295840547674
+Bassetlaw,Female,270,0.019601223987542334
+Bassetlaw,Male,205,0.014882410805356214
+Broxtowe,Female,315,0.022868095
+Broxtowe,Male,225,0.016334353322951946
+Gedling,Female,305,0.022142123393334857
+Gedling,Male,245,0.017786295840547674
+Mansfield,Female,255,0.018512267099345538
+Mansfield,Male,235,0.017060324581749806
+Newark and Sherwood,Female,305,0.022142123393334857
+Newark and Sherwood,Male,210,0.015245396434755148
+Rushcliffe,Female,330,0.023957052
+Rushcliffe,Male,255,0.018512267099345538
+Cherwell,Female,445,0.032305721
+Cherwell,Male,375,0.027223922
+Oxford,Female,810,0.058803672
+Oxford,Male,640,0.046462161
+South Oxfordshire,Female,400,0.02903885
+South Oxfordshire,Male,270,0.019601223987542334
+Vale of White Horse,Female,355,0.025771979687324177
+Vale of White Horse,Male,330,0.023957052
+West Oxfordshire,Female,345,0.025046008428526317
+West Oxfordshire,Male,260,0.018875253
+Mendip,Female,895,0.064974428
+Mendip,Male,515,0.03738752
+Sedgemoor,Female,400,0.02903885
+Sedgemoor,Male,290,0.021053167
+South Somerset,Female,620,0.045010218
+South Somerset,Male,350,0.025408994
+Cannock Chase,Female,270,0.019601223987542334
+Cannock Chase,Male,175,0.012704497028962624
+East Staffordshire,Female,285,0.020690181
+East Staffordshire,Male,255,0.018512267099345538
+Lichfield,Female,240,0.01742331
+Lichfield,Male,200,0.014519425175957284
+Newcastle-under-Lyme,Female,310,0.022505109
+Newcastle-under-Lyme,Male,225,0.016334353322951946
+South Staffordshire,Female,240,0.01742331
+South Staffordshire,Male,225,0.016334353322951946
+Stafford,Female,375,0.027223922
+Stafford,Male,310,0.022505109
+Staffordshire Moorlands,Female,235,0.017060324581749806
+Staffordshire Moorlands,Male,160,0.011615540140765827
+Tamworth,Female,190,0.013793454
+Tamworth,Male,120,0.008711655
+Babergh,Female,245,0.017786295840547674
+Babergh,Male,155,0.011252554511366895
+Ipswich,Female,470,0.034120649
+Ipswich,Male,370,0.026860936575520977
+Mid Suffolk,Female,230,0.016697338952350878
+Mid Suffolk,Male,195,0.01415644
+Elmbridge,Female,360,0.026134965
+Elmbridge,Male,250,0.018149281469946606
+Epsom and Ewell,Female,190,0.013793454
+Epsom and Ewell,Male,140,0.010163597623170099
+Guildford,Female,390,0.028312879
+Guildford,Male,290,0.021053167
+Mole Valley,Female,215,0.015608382
+Mole Valley,Male,145,0.010526583
+Reigate and Banstead,Female,335,0.024320037
+Reigate and Banstead,Male,300,0.021779137763935925
+Runnymede,Female,260,0.018875253
+Runnymede,Male,190,0.013793454
+Spelthorne,Female,295,0.021416152134536993
+Spelthorne,Male,225,0.016334353322951946
+Surrey Heath,Female,285,0.020690181
+Surrey Heath,Male,210,0.015245396434755148
+Tandridge,Female,200,0.014519425175957284
+Tandridge,Male,140,0.010163597623170099
+Waverley,Female,335,0.024320037
+Waverley,Male,270,0.019601223987542334
+Woking,Female,270,0.019601223987542334
+Woking,Male,230,0.016697338952350878
+North Warwickshire,Female,165,0.011978526
+North Warwickshire,Male,105,0.007622698
+Nuneaton and Bedworth,Female,465,0.033757664
+Nuneaton and Bedworth,Male,385,0.027949893
+Rugby,Female,330,0.023957052
+Rugby,Male,270,0.019601223987542334
+Stratford-on-Avon,Female,340,0.024683023
+Stratford-on-Avon,Male,230,0.016697338952350878
+Warwick,Female,435,0.031579749757707096
+Warwick,Male,340,0.024683023
+Adur,Female,235,0.017060324581749806
+Adur,Male,155,0.011252554511366895
+Arun,Female,520,0.037750505
+Arun,Male,340,0.024683023
+Chichester,Female,390,0.028312879
+Chichester,Male,275,0.019964209616941266
+Crawley,Female,355,0.025771979687324177
+Crawley,Male,280,0.020327195246340198
+Horsham,Female,390,0.028312879
+Horsham,Male,265,0.019238238
+Mid Sussex,Female,635,0.046099174933664375
+Mid Sussex,Male,490,0.035572592
+Worthing,Female,470,0.034120649
+Worthing,Male,305,0.022142123393334857
+Bromsgrove,Female,225,0.016334353322951946
+Bromsgrove,Male,165,0.011978526
+Malvern Hills,Female,265,0.019238238
+Malvern Hills,Male,145,0.010526583
+Redditch,Female,235,0.017060324581749806
+Redditch,Male,150,0.010889568881967963
+Worcester,Female,270,0.019601223987542334
+Worcester,Male,180,0.013067482658361555
+Wychavon,Female,305,0.022142123393334857
+Wychavon,Male,250,0.018149281469946606
+Wyre Forest,Female,290,0.021053167
+Wyre Forest,Male,185,0.013430468287760488
+St Albans,Female,405,0.029401836
+St Albans,Male,305,0.022142123393334857
+Welwyn Hatfield,Female,470,0.034120649
+Welwyn Hatfield,Male,350,0.025408994
+East Hertfordshire,Female,385,0.027949893
+East Hertfordshire,Male,270,0.019601223987542334
+Stevenage,Female,285,0.020690181
+Stevenage,Male,240,0.01742331
+East Suffolk,Female,770,0.055899787
+East Suffolk,Male,615,0.044647232
+West Suffolk,Female,535,0.038839462345685735
+West Suffolk,Male,430,0.031216764
+Somerset West and Taunton,Female,520,0.037750505
+Somerset West and Taunton,Male,370,0.026860936575520977
+Bolton,Female,565,0.041017376
+Bolton,Male,415,0.030127807
+Bury,Female,355,0.025771979687324177
+Bury,Male,295,0.021416152134536993
+Manchester,Female,1415,0.10272493311989778
+Manchester,Male,1320,0.095828206
+Oldham,Female,325,0.023594065910930585
+Oldham,Male,265,0.019238238
+Rochdale,Female,395,0.028675864722515636
+Rochdale,Male,280,0.020327195246340198
+Salford,Female,580,0.042106333
+Salford,Male,485,0.035209606051696415
+Stockport,Female,685,0.049729031227653694
+Stockport,Male,520,0.037750505
+Tameside,Female,480,0.03484662
+Tameside,Male,400,0.02903885
+Trafford,Female,515,0.03738752
+Trafford,Male,400,0.02903885
+Wigan,Female,625,0.045373204
+Wigan,Male,475,0.034483635
+Knowsley,Female,160,0.011615540140765827
+Knowsley,Male,125,0.009074641
+Liverpool,Female,1075,0.07804191
+Liverpool,Male,920,0.066789356
+St. Helens,Female,365,0.026497951
+St. Helens,Male,285,0.020690181
+Sefton,Female,625,0.045373204
+Sefton,Male,355,0.025771979687324177
+Wirral,Female,775,0.056262773
+Wirral,Male,480,0.03484662
+Barnsley,Female,505,0.036661549
+Barnsley,Male,355,0.025771979687324177
+Doncaster,Female,960,0.069693241
+Doncaster,Male,765,0.055536801
+Rotherham,Female,545,0.039565434
+Rotherham,Male,390,0.028312879
+Sheffield,Female,1465,0.1063547894138871
+Sheffield,Male,1170,0.084938637
+Newcastle upon Tyne,Female,720,0.052269931
+Newcastle upon Tyne,Male,565,0.041017376
+North Tyneside,Female,465,0.033757664
+North Tyneside,Male,310,0.022505109
+South Tyneside,Female,300,0.021779137763935925
+South Tyneside,Male,220,0.015971368
+Sunderland,Female,480,0.03484662
+Sunderland,Male,355,0.025771979687324177
+Birmingham,Female,3290,0.23884454414449732
+Birmingham,Male,3075,0.22323616208034325
+Coventry,Female,1030,0.07477504
+Coventry,Male,875,0.063522485
+Dudley,Female,865,0.062796514
+Dudley,Male,595,0.04319529
+Sandwell,Female,1290,0.093650292
+Sandwell,Male,1140,0.082760724
+Solihull,Female,470,0.034120649
+Solihull,Male,350,0.025408994
+Walsall,Female,835,0.0606186
+Walsall,Male,825,0.059892629
+Wolverhampton,Female,1600,0.11615540140765827
+Wolverhampton,Male,1560,0.1132515163724668
+Bradford,Female,1165,0.084575652
+Bradford,Male,910,0.066063385
+Calderdale,Female,590,0.042832304
+Calderdale,Male,455,0.033031692275302824
+Kirklees,Female,935,0.067878313
+Kirklees,Male,730,0.052995902
+Leeds,Female,2030,0.1473721655359664
+Leeds,Male,1610,0.11688137266645612
+Wakefield,Female,785,0.056988744
+Wakefield,Male,620,0.045010218
+Gateshead,Female,470,0.034120649
+Gateshead,Male,325,0.023594065910930585
+City of London and Westminster,Female,970,0.070419212
+City of London and Westminster,Male,825,0.059892629
+Barking and Dagenham,Female,555,0.040291405
+Barking and Dagenham,Male,425,0.030853778
+Barnet,Female,2740,0.19891612491061478
+Barnet,Male,2455,0.17822594403487566
+Bexley,Female,575,0.041743347
+Bexley,Male,415,0.030127807
+Brent,Female,2360,0.17132921707629595
+Brent,Male,2065,0.14991306494175896
+Bromley,Female,965,0.070056226
+Bromley,Male,735,0.053358887521643014
+Camden,Female,1025,0.074412054
+Camden,Male,815,0.059166658
+Croydon,Female,1705,0.12377809962503585
+Croydon,Male,1485,0.10780673193148282
+Ealing,Female,1450,0.10526583252569031
+Ealing,Male,1285,0.093287307
+Enfield,Female,5305,0.38512775279226696
+Enfield,Male,5045,0.3662525000635225
+Greenwich,Female,985,0.071508169
+Greenwich,Male,820,0.059529643
+Hackney,Female,2555,0.1854856566228543
+Hackney,Male,2325,0.16878831767050342
+Hammersmith and Fulham,Female,695,0.050455002
+Hammersmith and Fulham,Male,530,0.038476477
+Haringey,Female,3155,0.22904393215072613
+Haringey,Male,3010,0.21851734889815713
+Harrow,Female,4055,0.2943813454425339
+Harrow,Male,3640,0.2642535382024226
+Havering,Female,585,0.042469318639675055
+Havering,Male,470,0.034120649
+Hillingdon,Female,1430,0.10381389000809459
+Hillingdon,Male,1255,0.091109393
+Hounslow,Female,1255,0.091109393
+Hounslow,Male,1070,0.077678925
+Islington,Female,1630,0.11833331518405187
+Islington,Male,1300,0.094376264
+Kensington and Chelsea,Female,585,0.042469318639675055
+Kensington and Chelsea,Male,480,0.03484662
+Kingston upon Thames,Female,600,0.043558276
+Kingston upon Thames,Male,520,0.037750505
+Lambeth,Female,1270,0.09219835
+Lambeth,Male,1080,0.078404896
+Lewisham,Female,1275,0.092561335
+Lewisham,Male,995,0.07223414
+Merton,Female,680,0.049366046
+Merton,Male,525,0.038113491
+Newham,Female,900,0.065337413
+Newham,Male,865,0.062796514
+Redbridge,Female,1035,0.075138025
+Redbridge,Male,990,0.071871155
+Richmond upon Thames,Female,735,0.053358887521643014
+Richmond upon Thames,Male,540,0.039202448
+Southwark,Female,1155,0.08384968
+Southwark,Male,995,0.07223414
+Sutton,Female,695,0.050455002
+Sutton,Male,550,0.039928419
+Tower Hamlets,Female,880,0.063885471
+Tower Hamlets,Male,775,0.056262773
+Waltham Forest,Female,1475,0.10708076067268497
+Waltham Forest,Male,1335,0.096917163
+Wandsworth,Female,1045,0.075863997
+Wandsworth,Male,825,0.059892629
+Isle of Anglesey,Female,175,0.012704497028962624
+Isle of Anglesey,Male,100,0.007259713
+Gwynedd,Female,455,0.033031692275302824
+Gwynedd,Male,315,0.022868095
+Conwy,Female,390,0.028312879
+Conwy,Male,235,0.017060324581749806
+Denbighshire,Female,290,0.021053167
+Denbighshire,Male,195,0.01415644
+Flintshire,Female,295,0.021416152134536993
+Flintshire,Male,180,0.013067482658361555
+Wrexham,Female,260,0.018875253
+Wrexham,Male,255,0.018512267099345538
+Ceredigion,Female,415,0.030127807
+Ceredigion,Male,265,0.019238238
+Pembrokeshire,Female,445,0.032305721
+Pembrokeshire,Male,305,0.022142123393334857
+Carmarthenshire,Female,680,0.049366046
+Carmarthenshire,Male,445,0.032305721
+Swansea,Female,660,0.047914103
+Swansea,Male,515,0.03738752
+Neath Port Talbot,Female,380,0.027586908
+Neath Port Talbot,Male,250,0.018149281469946606
+Bridgend,Female,410,0.029764822
+Bridgend,Male,285,0.020690181
+Vale of Glamorgan,Female,355,0.025771979687324177
+Vale of Glamorgan,Male,285,0.020690181
+Cardiff,Female,1085,0.078767882
+Cardiff,Male,940,0.068241298
+Rhondda Cynon Taf,Female,670,0.048640074
+Rhondda Cynon Taf,Male,415,0.030127807
+Caerphilly,Female,480,0.03484662
+Caerphilly,Male,285,0.020690181
+Blaenau Gwent,Female,195,0.01415644
+Blaenau Gwent,Male,115,0.008348669
+Torfaen,Female,315,0.022868095
+Torfaen,Male,175,0.012704497028962624
+Monmouthshire,Female,310,0.022505109
+Monmouthshire,Male,210,0.015245396434755148
+Newport,Female,435,0.031579749757707096
+Newport,Male,305,0.022142123393334857
+Powys,Female,565,0.041017376
+Powys,Male,370,0.026860936575520977
+Merthyr Tydfil,Female,140,0.010163597623170099
+Merthyr Tydfil,Male,90,0.006533741

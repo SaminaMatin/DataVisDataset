@@ -1,0 +1,1532 @@
+[
+    {
+        "Location_Name": "Location",
+        "Age": "Age",
+        "Religion": {
+            "Buddhist": "Buddhist",
+            "Christian": "Christian",
+            "Hindu": "Hindu",
+            "Jewish": "Jewish",
+            "Muslim": "Muslim",
+            "No_Religion": "No_Religion",
+            "Sikh": "Sikh",
+            "Other_Religion": "Other_Religion",
+            "Not_answered": "Not_answered"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "0",
+        "Religion": {
+            "Buddhist": "1025",
+            "Christian": "144055",
+            "Hindu": "10915",
+            "Jewish": "3425",
+            "Muslim": "66760",
+            "No_Religion": "295495",
+            "Sikh": "5945",
+            "Other_Religion": "1565",
+            "Not_answered": "49800"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "1",
+        "Religion": {
+            "Buddhist": "1175",
+            "Christian": "164135",
+            "Hindu": "11970",
+            "Jewish": "3460",
+            "Muslim": "71145",
+            "No_Religion": "298235",
+            "Sikh": "6230",
+            "Other_Religion": "1630",
+            "Not_answered": "47960"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "2",
+        "Religion": {
+            "Buddhist": "1310",
+            "Christian": "185310",
+            "Hindu": "12370",
+            "Jewish": "3435",
+            "Muslim": "71150",
+            "No_Religion": "291790",
+            "Sikh": "6260",
+            "Other_Religion": "1735",
+            "Not_answered": "45675"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "3",
+        "Religion": {
+            "Buddhist": "1370",
+            "Christian": "198900",
+            "Hindu": "13150",
+            "Jewish": "3615",
+            "Muslim": "70645",
+            "No_Religion": "286740",
+            "Sikh": "6510",
+            "Other_Religion": "1815",
+            "Not_answered": "43615"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "4",
+        "Religion": {
+            "Buddhist": "1490",
+            "Christian": "215020",
+            "Hindu": "13945",
+            "Jewish": "3425",
+            "Muslim": "75610",
+            "No_Religion": "285190",
+            "Sikh": "6660",
+            "Other_Religion": "1895",
+            "Not_answered": "43400"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "5",
+        "Religion": {
+            "Buddhist": "1565",
+            "Christian": "231120",
+            "Hindu": "14175",
+            "Jewish": "3640",
+            "Muslim": "74835",
+            "No_Religion": "281395",
+            "Sikh": "6845",
+            "Other_Religion": "2065",
+            "Not_answered": "43050"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "6",
+        "Religion": {
+            "Buddhist": "1640",
+            "Christian": "236740",
+            "Hindu": "14375",
+            "Jewish": "3585",
+            "Muslim": "74485",
+            "No_Religion": "269310",
+            "Sikh": "6715",
+            "Other_Religion": "2065",
+            "Not_answered": "41645"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "7",
+        "Religion": {
+            "Buddhist": "1770",
+            "Christian": "246725",
+            "Hindu": "14095",
+            "Jewish": "3740",
+            "Muslim": "75105",
+            "No_Religion": "267735",
+            "Sikh": "6910",
+            "Other_Religion": "1960",
+            "Not_answered": "40825"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "8",
+        "Religion": {
+            "Buddhist": "1915",
+            "Christian": "261550",
+            "Hindu": "14340",
+            "Jewish": "3630",
+            "Muslim": "76840",
+            "No_Religion": "276215",
+            "Sikh": "7225",
+            "Other_Religion": "2150",
+            "Not_answered": "42260"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "9",
+        "Religion": {
+            "Buddhist": "1865",
+            "Christian": "266535",
+            "Hindu": "14355",
+            "Jewish": "3815",
+            "Muslim": "76915",
+            "No_Religion": "279850",
+            "Sikh": "7255",
+            "Other_Religion": "2215",
+            "Not_answered": "41660"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "10",
+        "Religion": {
+            "Buddhist": "1855",
+            "Christian": "269740",
+            "Hindu": "13805",
+            "Jewish": "3800",
+            "Muslim": "76375",
+            "No_Religion": "278775",
+            "Sikh": "6835",
+            "Other_Religion": "2150",
+            "Not_answered": "41175"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "11",
+        "Religion": {
+            "Buddhist": "1865",
+            "Christian": "267430",
+            "Hindu": "13020",
+            "Jewish": "3625",
+            "Muslim": "77075",
+            "No_Religion": "275625",
+            "Sikh": "6645",
+            "Other_Religion": "2155",
+            "Not_answered": "40275"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "12",
+        "Religion": {
+            "Buddhist": "1875",
+            "Christian": "265370",
+            "Hindu": "12475",
+            "Jewish": "3660",
+            "Muslim": "76870",
+            "No_Religion": "276060",
+            "Sikh": "6830",
+            "Other_Religion": "2175",
+            "Not_answered": "39945"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "13",
+        "Religion": {
+            "Buddhist": "1900",
+            "Christian": "260630",
+            "Hindu": "12285",
+            "Jewish": "3755",
+            "Muslim": "75630",
+            "No_Religion": "278335",
+            "Sikh": "6725",
+            "Other_Religion": "2260",
+            "Not_answered": "41100"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "14",
+        "Religion": {
+            "Buddhist": "1890",
+            "Christian": "250560",
+            "Hindu": "11265",
+            "Jewish": "3535",
+            "Muslim": "72325",
+            "No_Religion": "274365",
+            "Sikh": "6625",
+            "Other_Religion": "2220",
+            "Not_answered": "40430"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "15",
+        "Religion": {
+            "Buddhist": "1705",
+            "Christian": "240535",
+            "Hindu": "10720",
+            "Jewish": "3415",
+            "Muslim": "70625",
+            "No_Religion": "269140",
+            "Sikh": "6210",
+            "Other_Religion": "2400",
+            "Not_answered": "39360"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "16",
+        "Religion": {
+            "Buddhist": "1825",
+            "Christian": "238365",
+            "Hindu": "10665",
+            "Jewish": "3200",
+            "Muslim": "70820",
+            "No_Religion": "275515",
+            "Sikh": "6300",
+            "Other_Religion": "2500",
+            "Not_answered": "40275"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "17",
+        "Religion": {
+            "Buddhist": "1885",
+            "Christian": "230790",
+            "Hindu": "9750",
+            "Jewish": "3020",
+            "Muslim": "68530",
+            "No_Religion": "278260",
+            "Sikh": "6015",
+            "Other_Religion": "2710",
+            "Not_answered": "41085"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "18",
+        "Religion": {
+            "Buddhist": "2115",
+            "Christian": "209575",
+            "Hindu": "9420",
+            "Jewish": "2865",
+            "Muslim": "66595",
+            "No_Religion": "284540",
+            "Sikh": "6000",
+            "Other_Religion": "3035",
+            "Not_answered": "48905"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "19",
+        "Religion": {
+            "Buddhist": "2365",
+            "Christian": "197850",
+            "Hindu": "9490",
+            "Jewish": "2755",
+            "Muslim": "64265",
+            "No_Religion": "302900",
+            "Sikh": "5760",
+            "Other_Religion": "3830",
+            "Not_answered": "61000"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "20",
+        "Religion": {
+            "Buddhist": "2830",
+            "Christian": "193655",
+            "Hindu": "9440",
+            "Jewish": "2790",
+            "Muslim": "61220",
+            "No_Religion": "311505",
+            "Sikh": "5930",
+            "Other_Religion": "4085",
+            "Not_answered": "57840"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "21",
+        "Religion": {
+            "Buddhist": "2900",
+            "Christian": "199275",
+            "Hindu": "9780",
+            "Jewish": "2770",
+            "Muslim": "59170",
+            "No_Religion": "327610",
+            "Sikh": "6065",
+            "Other_Religion": "4320",
+            "Not_answered": "56445"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "22",
+        "Religion": {
+            "Buddhist": "2955",
+            "Christian": "207495",
+            "Hindu": "11120",
+            "Jewish": "2810",
+            "Muslim": "58025",
+            "No_Religion": "342700",
+            "Sikh": "6330",
+            "Other_Religion": "4530",
+            "Not_answered": "51555"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "23",
+        "Religion": {
+            "Buddhist": "3120",
+            "Christian": "209295",
+            "Hindu": "12420",
+            "Jewish": "2890",
+            "Muslim": "56880",
+            "No_Religion": "354445",
+            "Sikh": "6120",
+            "Other_Religion": "4850",
+            "Not_answered": "48270"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "24",
+        "Religion": {
+            "Buddhist": "3260",
+            "Christian": "212055",
+            "Hindu": "12765",
+            "Jewish": "3005",
+            "Muslim": "55860",
+            "No_Religion": "365730",
+            "Sikh": "6440",
+            "Other_Religion": "5055",
+            "Not_answered": "46825"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "25",
+        "Religion": {
+            "Buddhist": "3080",
+            "Christian": "210575",
+            "Hindu": "12700",
+            "Jewish": "2970",
+            "Muslim": "55590",
+            "No_Religion": "369705",
+            "Sikh": "6240",
+            "Other_Religion": "5045",
+            "Not_answered": "46000"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "26",
+        "Religion": {
+            "Buddhist": "3135",
+            "Christian": "214830",
+            "Hindu": "12395",
+            "Jewish": "2960",
+            "Muslim": "55360",
+            "No_Religion": "380315",
+            "Sikh": "6395",
+            "Other_Religion": "5320",
+            "Not_answered": "46690"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "27",
+        "Religion": {
+            "Buddhist": "3305",
+            "Christian": "219615",
+            "Hindu": "12920",
+            "Jewish": "3035",
+            "Muslim": "55705",
+            "No_Religion": "388720",
+            "Sikh": "6635",
+            "Other_Religion": "5220",
+            "Not_answered": "47735"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "28",
+        "Religion": {
+            "Buddhist": "3590",
+            "Christian": "227200",
+            "Hindu": "13445",
+            "Jewish": "3025",
+            "Muslim": "55225",
+            "No_Religion": "393830",
+            "Sikh": "6845",
+            "Other_Religion": "5210",
+            "Not_answered": "47960"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "29",
+        "Religion": {
+            "Buddhist": "3570",
+            "Christian": "237770",
+            "Hindu": "14485",
+            "Jewish": "2935",
+            "Muslim": "55455",
+            "No_Religion": "401070",
+            "Sikh": "7425",
+            "Other_Religion": "5485",
+            "Not_answered": "48550"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "30",
+        "Religion": {
+            "Buddhist": "3745",
+            "Christian": "248690",
+            "Hindu": "16000",
+            "Jewish": "3105",
+            "Muslim": "57755",
+            "No_Religion": "405150",
+            "Sikh": "7685",
+            "Other_Religion": "5865",
+            "Not_answered": "49930"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "31",
+        "Religion": {
+            "Buddhist": "3920",
+            "Christian": "253765",
+            "Hindu": "17250",
+            "Jewish": "2995",
+            "Muslim": "60995",
+            "No_Religion": "387125",
+            "Sikh": "8330",
+            "Other_Religion": "5805",
+            "Not_answered": "48600"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "32",
+        "Religion": {
+            "Buddhist": "4035",
+            "Christian": "259950",
+            "Hindu": "18390",
+            "Jewish": "3110",
+            "Muslim": "63240",
+            "No_Religion": "378340",
+            "Sikh": "8840",
+            "Other_Religion": "6080",
+            "Not_answered": "48650"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "33",
+        "Religion": {
+            "Buddhist": "4305",
+            "Christian": "269700",
+            "Hindu": "20470",
+            "Jewish": "3175",
+            "Muslim": "64475",
+            "No_Religion": "373600",
+            "Sikh": "9050",
+            "Other_Religion": "6160",
+            "Not_answered": "48115"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "34",
+        "Religion": {
+            "Buddhist": "4365",
+            "Christian": "270145",
+            "Hindu": "20895",
+            "Jewish": "2955",
+            "Muslim": "64925",
+            "No_Religion": "351775",
+            "Sikh": "9155",
+            "Other_Religion": "6055",
+            "Not_answered": "45900"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "35",
+        "Religion": {
+            "Buddhist": "4525",
+            "Christian": "275990",
+            "Hindu": "22220",
+            "Jewish": "3030",
+            "Muslim": "66060",
+            "No_Religion": "344220",
+            "Sikh": "9300",
+            "Other_Religion": "5935",
+            "Not_answered": "45170"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "36",
+        "Religion": {
+            "Buddhist": "4810",
+            "Christian": "279510",
+            "Hindu": "22525",
+            "Jewish": "3060",
+            "Muslim": "66165",
+            "No_Religion": "331505",
+            "Sikh": "9530",
+            "Other_Religion": "6055",
+            "Not_answered": "44125"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "37",
+        "Religion": {
+            "Buddhist": "4885",
+            "Christian": "279940",
+            "Hindu": "22995",
+            "Jewish": "3065",
+            "Muslim": "64745",
+            "No_Religion": "319905",
+            "Sikh": "9345",
+            "Other_Religion": "5895",
+            "Not_answered": "42755"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "38",
+        "Religion": {
+            "Buddhist": "5220",
+            "Christian": "284280",
+            "Hindu": "23115",
+            "Jewish": "3120",
+            "Muslim": "65350",
+            "No_Religion": "309990",
+            "Sikh": "9715",
+            "Other_Religion": "6060",
+            "Not_answered": "42015"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "39",
+        "Religion": {
+            "Buddhist": "5520",
+            "Christian": "288775",
+            "Hindu": "23000",
+            "Jewish": "3035",
+            "Muslim": "63905",
+            "No_Religion": "307735",
+            "Sikh": "9635",
+            "Other_Religion": "6375",
+            "Not_answered": "41295"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "40",
+        "Religion": {
+            "Buddhist": "5490",
+            "Christian": "302565",
+            "Hindu": "23045",
+            "Jewish": "3130",
+            "Muslim": "65450",
+            "No_Religion": "308955",
+            "Sikh": "9820",
+            "Other_Religion": "6260",
+            "Not_answered": "41480"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "41",
+        "Religion": {
+            "Buddhist": "5560",
+            "Christian": "302755",
+            "Hindu": "21670",
+            "Jewish": "3175",
+            "Muslim": "65260",
+            "No_Religion": "298845",
+            "Sikh": "9760",
+            "Other_Religion": "6355",
+            "Not_answered": "40820"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "42",
+        "Religion": {
+            "Buddhist": "5575",
+            "Christian": "293200",
+            "Hindu": "20770",
+            "Jewish": "3050",
+            "Muslim": "61030",
+            "No_Religion": "277350",
+            "Sikh": "9095",
+            "Other_Religion": "5935",
+            "Not_answered": "38350"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "43",
+        "Religion": {
+            "Buddhist": "5455",
+            "Christian": "280165",
+            "Hindu": "18960",
+            "Jewish": "3050",
+            "Muslim": "57135",
+            "No_Religion": "257930",
+            "Sikh": "8440",
+            "Other_Religion": "5555",
+            "Not_answered": "35860"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "44",
+        "Religion": {
+            "Buddhist": "5710",
+            "Christian": "284295",
+            "Hindu": "18360",
+            "Jewish": "3005",
+            "Muslim": "56605",
+            "No_Religion": "255050",
+            "Sikh": "8565",
+            "Other_Religion": "5735",
+            "Not_answered": "35785"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "45",
+        "Religion": {
+            "Buddhist": "5450",
+            "Christian": "294705",
+            "Hindu": "17055",
+            "Jewish": "2965",
+            "Muslim": "53775",
+            "No_Religion": "258890",
+            "Sikh": "8175",
+            "Other_Religion": "5725",
+            "Not_answered": "36060"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "46",
+        "Religion": {
+            "Buddhist": "5580",
+            "Christian": "307065",
+            "Hindu": "15515",
+            "Jewish": "3015",
+            "Muslim": "51605",
+            "No_Religion": "265925",
+            "Sikh": "7740",
+            "Other_Religion": "6025",
+            "Not_answered": "37240"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "47",
+        "Religion": {
+            "Buddhist": "5490",
+            "Christian": "315585",
+            "Hindu": "14300",
+            "Jewish": "3195",
+            "Muslim": "49985",
+            "No_Religion": "270290",
+            "Sikh": "7655",
+            "Other_Religion": "6240",
+            "Not_answered": "37755"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "48",
+        "Religion": {
+            "Buddhist": "5650",
+            "Christian": "337235",
+            "Hindu": "13680",
+            "Jewish": "3065",
+            "Muslim": "46545",
+            "No_Religion": "280125",
+            "Sikh": "7425",
+            "Other_Religion": "6260",
+            "Not_answered": "40050"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "49",
+        "Religion": {
+            "Buddhist": "5580",
+            "Christian": "358135",
+            "Hindu": "13175",
+            "Jewish": "3045",
+            "Muslim": "43965",
+            "No_Religion": "290325",
+            "Sikh": "7125",
+            "Other_Religion": "6370",
+            "Not_answered": "41870"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "50",
+        "Religion": {
+            "Buddhist": "5510",
+            "Christian": "375200",
+            "Hindu": "12210",
+            "Jewish": "3095",
+            "Muslim": "43575",
+            "No_Religion": "288940",
+            "Sikh": "7125",
+            "Other_Religion": "6455",
+            "Not_answered": "43180"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "51",
+        "Religion": {
+            "Buddhist": "5075",
+            "Christian": "377380",
+            "Hindu": "12010",
+            "Jewish": "3030",
+            "Muslim": "42015",
+            "No_Religion": "273740",
+            "Sikh": "7230",
+            "Other_Religion": "6300",
+            "Not_answered": "41970"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "52",
+        "Religion": {
+            "Buddhist": "5265",
+            "Christian": "397245",
+            "Hindu": "11465",
+            "Jewish": "3135",
+            "Muslim": "38405",
+            "No_Religion": "274230",
+            "Sikh": "7085",
+            "Other_Religion": "6260",
+            "Not_answered": "43200"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "53",
+        "Religion": {
+            "Buddhist": "4915",
+            "Christian": "406000",
+            "Hindu": "10965",
+            "Jewish": "2995",
+            "Muslim": "35115",
+            "No_Religion": "265650",
+            "Sikh": "6640",
+            "Other_Religion": "5900",
+            "Not_answered": "43220"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "54",
+        "Religion": {
+            "Buddhist": "4635",
+            "Christian": "416585",
+            "Hindu": "10255",
+            "Jewish": "3030",
+            "Muslim": "30740",
+            "No_Religion": "265115",
+            "Sikh": "6070",
+            "Other_Religion": "5990",
+            "Not_answered": "43615"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "55",
+        "Religion": {
+            "Buddhist": "4625",
+            "Christian": "425460",
+            "Hindu": "10195",
+            "Jewish": "3120",
+            "Muslim": "28840",
+            "No_Religion": "256135",
+            "Sikh": "5750",
+            "Other_Religion": "5940",
+            "Not_answered": "44050"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "56",
+        "Religion": {
+            "Buddhist": "4425",
+            "Christian": "436140",
+            "Hindu": "9895",
+            "Jewish": "3150",
+            "Muslim": "26020",
+            "No_Religion": "248340",
+            "Sikh": "5470",
+            "Other_Religion": "5925",
+            "Not_answered": "44590"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "57",
+        "Religion": {
+            "Buddhist": "4135",
+            "Christian": "435200",
+            "Hindu": "9685",
+            "Jewish": "3170",
+            "Muslim": "23070",
+            "No_Religion": "235260",
+            "Sikh": "5395",
+            "Other_Religion": "5500",
+            "Not_answered": "43720"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "58",
+        "Religion": {
+            "Buddhist": "4130",
+            "Christian": "434815",
+            "Hindu": "9740",
+            "Jewish": "2970",
+            "Muslim": "22645",
+            "No_Religion": "221160",
+            "Sikh": "5495",
+            "Other_Religion": "5050",
+            "Not_answered": "42630"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "59",
+        "Religion": {
+            "Buddhist": "3860",
+            "Christian": "429230",
+            "Hindu": "9975",
+            "Jewish": "3085",
+            "Muslim": "21190",
+            "No_Religion": "206490",
+            "Sikh": "5355",
+            "Other_Religion": "4785",
+            "Not_answered": "40555"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "60",
+        "Religion": {
+            "Buddhist": "3640",
+            "Christian": "422165",
+            "Hindu": "9945",
+            "Jewish": "3125",
+            "Muslim": "21040",
+            "No_Religion": "192720",
+            "Sikh": "5095",
+            "Other_Religion": "4720",
+            "Not_answered": "38950"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "61",
+        "Religion": {
+            "Buddhist": "3260",
+            "Christian": "407565",
+            "Hindu": "9635",
+            "Jewish": "2925",
+            "Muslim": "20855",
+            "No_Religion": "175860",
+            "Sikh": "5230",
+            "Other_Religion": "4410",
+            "Not_answered": "36690"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "62",
+        "Religion": {
+            "Buddhist": "2975",
+            "Christian": "405140",
+            "Hindu": "9400",
+            "Jewish": "2995",
+            "Muslim": "18605",
+            "No_Religion": "168290",
+            "Sikh": "5055",
+            "Other_Religion": "4150",
+            "Not_answered": "35815"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "63",
+        "Religion": {
+            "Buddhist": "2905",
+            "Christian": "397430",
+            "Hindu": "9090",
+            "Jewish": "3000",
+            "Muslim": "18060",
+            "No_Religion": "158900",
+            "Sikh": "5045",
+            "Other_Religion": "3870",
+            "Not_answered": "34015"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "64",
+        "Religion": {
+            "Buddhist": "2775",
+            "Christian": "383325",
+            "Hindu": "9125",
+            "Jewish": "2935",
+            "Muslim": "17150",
+            "No_Religion": "146810",
+            "Sikh": "5055",
+            "Other_Religion": "3705",
+            "Not_answered": "32545"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "65",
+        "Religion": {
+            "Buddhist": "2695",
+            "Christian": "368980",
+            "Hindu": "8795",
+            "Jewish": "2910",
+            "Muslim": "16350",
+            "No_Religion": "136915",
+            "Sikh": "4985",
+            "Other_Religion": "3460",
+            "Not_answered": "30940"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "66",
+        "Religion": {
+            "Buddhist": "2735",
+            "Christian": "363040",
+            "Hindu": "8660",
+            "Jewish": "2865",
+            "Muslim": "15295",
+            "No_Religion": "129175",
+            "Sikh": "5380",
+            "Other_Religion": "3270",
+            "Not_answered": "30190"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "67",
+        "Religion": {
+            "Buddhist": "2575",
+            "Christian": "368160",
+            "Hindu": "8235",
+            "Jewish": "2995",
+            "Muslim": "14000",
+            "No_Religion": "125940",
+            "Sikh": "4605",
+            "Other_Religion": "3120",
+            "Not_answered": "30350"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "68",
+        "Religion": {
+            "Buddhist": "2505",
+            "Christian": "359035",
+            "Hindu": "7685",
+            "Jewish": "2940",
+            "Muslim": "14070",
+            "No_Religion": "117735",
+            "Sikh": "4780",
+            "Other_Religion": "3010",
+            "Not_answered": "28920"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "69",
+        "Religion": {
+            "Buddhist": "2430",
+            "Christian": "357430",
+            "Hindu": "7405",
+            "Jewish": "3045",
+            "Muslim": "11945",
+            "No_Religion": "112225",
+            "Sikh": "4200",
+            "Other_Religion": "2800",
+            "Not_answered": "28720"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "70",
+        "Religion": {
+            "Buddhist": "2260",
+            "Christian": "363135",
+            "Hindu": "7400",
+            "Jewish": "3100",
+            "Muslim": "10875",
+            "No_Religion": "107600",
+            "Sikh": "4035",
+            "Other_Religion": "2580",
+            "Not_answered": "28695"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "71",
+        "Religion": {
+            "Buddhist": "2335",
+            "Christian": "375830",
+            "Hindu": "6730",
+            "Jewish": "3215",
+            "Muslim": "9710",
+            "No_Religion": "106665",
+            "Sikh": "3625",
+            "Other_Religion": "2435",
+            "Not_answered": "28920"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "72",
+        "Religion": {
+            "Buddhist": "2135",
+            "Christian": "388860",
+            "Hindu": "6145",
+            "Jewish": "3325",
+            "Muslim": "8180",
+            "No_Religion": "104850",
+            "Sikh": "3260",
+            "Other_Religion": "2205",
+            "Not_answered": "28970"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "73",
+        "Religion": {
+            "Buddhist": "2060",
+            "Christian": "430055",
+            "Hindu": "5640",
+            "Jewish": "3475",
+            "Muslim": "7745",
+            "No_Religion": "108180",
+            "Sikh": "2910",
+            "Other_Religion": "2165",
+            "Not_answered": "30890"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "74",
+        "Religion": {
+            "Buddhist": "1800",
+            "Christian": "432095",
+            "Hindu": "4955",
+            "Jewish": "3545",
+            "Muslim": "6725",
+            "No_Religion": "102545",
+            "Sikh": "2445",
+            "Other_Religion": "2045",
+            "Not_answered": "30285"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "75",
+        "Religion": {
+            "Buddhist": "1270",
+            "Christian": "325980",
+            "Hindu": "4280",
+            "Jewish": "2885",
+            "Muslim": "6320",
+            "No_Religion": "73820",
+            "Sikh": "2145",
+            "Other_Religion": "1490",
+            "Not_answered": "23180"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "76",
+        "Religion": {
+            "Buddhist": "1310",
+            "Christian": "345270",
+            "Hindu": "4000",
+            "Jewish": "2915",
+            "Muslim": "5830",
+            "No_Religion": "73995",
+            "Sikh": "1945",
+            "Other_Religion": "1440",
+            "Not_answered": "24550"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "77",
+        "Religion": {
+            "Buddhist": "1125",
+            "Christian": "317460",
+            "Hindu": "3930",
+            "Jewish": "2735",
+            "Muslim": "5495",
+            "No_Religion": "63660",
+            "Sikh": "1995",
+            "Other_Religion": "1190",
+            "Not_answered": "22455"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "78",
+        "Religion": {
+            "Buddhist": "955",
+            "Christian": "295725",
+            "Hindu": "3785",
+            "Jewish": "2305",
+            "Muslim": "5565",
+            "No_Religion": "55630",
+            "Sikh": "2050",
+            "Other_Religion": "1030",
+            "Not_answered": "20770"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "79",
+        "Religion": {
+            "Buddhist": "790",
+            "Christian": "250840",
+            "Hindu": "3360",
+            "Jewish": "1625",
+            "Muslim": "5045",
+            "No_Religion": "45850",
+            "Sikh": "1900",
+            "Other_Religion": "920",
+            "Not_answered": "17980"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "80",
+        "Religion": {
+            "Buddhist": "660",
+            "Christian": "233840",
+            "Hindu": "3265",
+            "Jewish": "1605",
+            "Muslim": "5395",
+            "No_Religion": "42180",
+            "Sikh": "1795",
+            "Other_Religion": "835",
+            "Not_answered": "16895"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "81",
+        "Religion": {
+            "Buddhist": "605",
+            "Christian": "238245",
+            "Hindu": "3160",
+            "Jewish": "1765",
+            "Muslim": "5440",
+            "No_Religion": "40735",
+            "Sikh": "1760",
+            "Other_Religion": "740",
+            "Not_answered": "17145"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "82",
+        "Religion": {
+            "Buddhist": "560",
+            "Christian": "226695",
+            "Hindu": "2870",
+            "Jewish": "1785",
+            "Muslim": "4635",
+            "No_Religion": "37435",
+            "Sikh": "1595",
+            "Other_Religion": "650",
+            "Not_answered": "16370"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "83",
+        "Religion": {
+            "Buddhist": "465",
+            "Christian": "210830",
+            "Hindu": "2595",
+            "Jewish": "1740",
+            "Muslim": "4125",
+            "No_Religion": "33385",
+            "Sikh": "1330",
+            "Other_Religion": "605",
+            "Not_answered": "15390"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "84",
+        "Religion": {
+            "Buddhist": "375",
+            "Christian": "192970",
+            "Hindu": "2330",
+            "Jewish": "1675",
+            "Muslim": "3885",
+            "No_Religion": "29680",
+            "Sikh": "1155",
+            "Other_Religion": "475",
+            "Not_answered": "14415"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "85",
+        "Religion": {
+            "Buddhist": "330",
+            "Christian": "172950",
+            "Hindu": "2030",
+            "Jewish": "1460",
+            "Muslim": "3410",
+            "No_Religion": "26005",
+            "Sikh": "990",
+            "Other_Religion": "450",
+            "Not_answered": "12965"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "86",
+        "Religion": {
+            "Buddhist": "260",
+            "Christian": "154085",
+            "Hindu": "1675",
+            "Jewish": "1320",
+            "Muslim": "2920",
+            "No_Religion": "22620",
+            "Sikh": "925",
+            "Other_Religion": "385",
+            "Not_answered": "11890"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "87",
+        "Religion": {
+            "Buddhist": "210",
+            "Christian": "134590",
+            "Hindu": "1495",
+            "Jewish": "1220",
+            "Muslim": "2385",
+            "No_Religion": "19415",
+            "Sikh": "775",
+            "Other_Religion": "375",
+            "Not_answered": "10370"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "88",
+        "Religion": {
+            "Buddhist": "170",
+            "Christian": "119475",
+            "Hindu": "1215",
+            "Jewish": "1235",
+            "Muslim": "2030",
+            "No_Religion": "17230",
+            "Sikh": "690",
+            "Other_Religion": "270",
+            "Not_answered": "9900"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "89",
+        "Religion": {
+            "Buddhist": "160",
+            "Christian": "104740",
+            "Hindu": "955",
+            "Jewish": "1055",
+            "Muslim": "1510",
+            "No_Religion": "14775",
+            "Sikh": "550",
+            "Other_Religion": "245",
+            "Not_answered": "8785"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "90",
+        "Religion": {
+            "Buddhist": "120",
+            "Christian": "90640",
+            "Hindu": "760",
+            "Jewish": "900",
+            "Muslim": "1385",
+            "No_Religion": "12915",
+            "Sikh": "480",
+            "Other_Religion": "200",
+            "Not_answered": "8010"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "91",
+        "Religion": {
+            "Buddhist": "90",
+            "Christian": "73060",
+            "Hindu": "600",
+            "Jewish": "820",
+            "Muslim": "1135",
+            "No_Religion": "10505",
+            "Sikh": "380",
+            "Other_Religion": "190",
+            "Not_answered": "6665"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "92",
+        "Religion": {
+            "Buddhist": "85",
+            "Christian": "58735",
+            "Hindu": "440",
+            "Jewish": "715",
+            "Muslim": "635",
+            "No_Religion": "8365",
+            "Sikh": "235",
+            "Other_Religion": "120",
+            "Not_answered": "5635"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "93",
+        "Religion": {
+            "Buddhist": "50",
+            "Christian": "45540",
+            "Hindu": "315",
+            "Jewish": "565",
+            "Muslim": "530",
+            "No_Religion": "6445",
+            "Sikh": "225",
+            "Other_Religion": "95",
+            "Not_answered": "4425"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "94",
+        "Religion": {
+            "Buddhist": "50",
+            "Christian": "35685",
+            "Hindu": "220",
+            "Jewish": "455",
+            "Muslim": "365",
+            "No_Religion": "5085",
+            "Sikh": "160",
+            "Other_Religion": "65",
+            "Not_answered": "3630"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "95",
+        "Religion": {
+            "Buddhist": "40",
+            "Christian": "26395",
+            "Hindu": "185",
+            "Jewish": "400",
+            "Muslim": "260",
+            "No_Religion": "3740",
+            "Sikh": "100",
+            "Other_Religion": "50",
+            "Not_answered": "2885"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "96",
+        "Religion": {
+            "Buddhist": "20",
+            "Christian": "19410",
+            "Hindu": "130",
+            "Jewish": "290",
+            "Muslim": "205",
+            "No_Religion": "2740",
+            "Sikh": "85",
+            "Other_Religion": "45",
+            "Not_answered": "2280"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "97",
+        "Religion": {
+            "Buddhist": "15",
+            "Christian": "13695",
+            "Hindu": "90",
+            "Jewish": "275",
+            "Muslim": "125",
+            "No_Religion": "1965",
+            "Sikh": "55",
+            "Other_Religion": "25",
+            "Not_answered": "1665"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "98",
+        "Religion": {
+            "Buddhist": "15",
+            "Christian": "9665",
+            "Hindu": "65",
+            "Jewish": "170",
+            "Muslim": "80",
+            "No_Religion": "1450",
+            "Sikh": "45",
+            "Other_Religion": "20",
+            "Not_answered": "1225"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "99",
+        "Religion": {
+            "Buddhist": "10",
+            "Christian": "6855",
+            "Hindu": "35",
+            "Jewish": "95",
+            "Muslim": "65",
+            "No_Religion": "1000",
+            "Sikh": "30",
+            "Other_Religion": "20",
+            "Not_answered": "960"
+        }
+    },
+    {
+        "Location_Name": "England",
+        "Age": "100",
+        "Religion": {
+            "Buddhist": "0",
+            "Christian": "9860",
+            "Hindu": "65",
+            "Jewish": "180",
+            "Muslim": "150",
+            "No_Religion": "1435",
+            "Sikh": "60",
+            "Other_Religion": "30",
+            "Not_answered": "1335"
+        }
+    }
+]

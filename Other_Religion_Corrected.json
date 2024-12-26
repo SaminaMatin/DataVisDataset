@@ -1,0 +1,134 @@
+[
+  {
+    "Location": "England",
+    "Gender": "Female",
+    "Population": 186110,
+    "Population Percentage": 27.33916518
+  },
+  {
+    "Location": "England",
+    "Gender": "Male",
+    "Population": 146300,
+    "Population Percentage": 21.49116042
+  },
+  {
+    "Location": "Wales",
+    "Gender": "Female",
+    "Population": 9405,
+    "Population Percentage": 1.381574598
+  },
+  {
+    "Location": "Wales",
+    "Gender": "Male",
+    "Population": 6520,
+    "Population Percentage": 0.957774203
+  },
+  {
+    "Location": "North East",
+    "Gender": "Female",
+    "Population": 5755,
+    "Population Percentage": 0.845397322
+  },
+  {
+    "Location": "North East",
+    "Gender": "Male",
+    "Population": 4195,
+    "Population Percentage": 0.616236623
+  },
+  {
+    "Location": "North West",
+    "Gender": "Female",
+    "Population": 15915,
+    "Population Percentage": 2.337879823
+  },
+  {
+    "Location": "North West",
+    "Gender": "Male",
+    "Population": 12185,
+    "Population Percentage": 1.789950716
+  },
+  {
+    "Location": "Yorkshire and The Humber",
+    "Gender": "Female",
+    "Population": 13260,
+    "Population Percentage": 1.947865941
+  },
+  {
+    "Location": "Yorkshire and The Humber",
+    "Gender": "Male",
+    "Population": 10360,
+    "Population Percentage": 1.521862078
+  },
+  {
+    "Location": "East Midlands",
+    "Gender": "Female",
+    "Population": 14190,
+    "Population Percentage": 2.084480973
+  },
+  {
+    "Location": "East Midlands",
+    "Gender": "Male",
+    "Population": 10625,
+    "Population Percentage": 1.560790017
+  },
+  {
+    "Location": "West Midlands",
+    "Gender": "Female",
+    "Population": 17455,
+    "Population Percentage": 2.564102564
+  },
+  {
+    "Location": "West Midlands",
+    "Gender": "Male",
+    "Population": 14350,
+    "Population Percentage": 2.107984634
+  },
+  {
+    "Location": "East of England",
+    "Gender": "Female",
+    "Population": 20540,
+    "Population Percentage": 3.017282536
+  },
+  {
+    "Location": "East of England",
+    "Gender": "Male",
+    "Population": 15840,
+    "Population Percentage": 2.326862482
+  },
+  {
+    "Location": "London",
+    "Gender": "Female",
+    "Population": 46325,
+    "Population Percentage": 6.805044473
+  },
+  {
+    "Location": "London",
+    "Gender": "Male",
+    "Population": 40435,
+    "Population Percentage": 5.939815937
+  },
+  {
+    "Location": "South East",
+    "Gender": "Female",
+    "Population": 30720,
+    "Population Percentage": 4.512702995
+  },
+  {
+    "Location": "South East",
+    "Gender": "Male",
+    "Population": 23375,
+    "Population Percentage": 3.433738037
+  },
+  {
+    "Location": "South West",
+    "Gender": "Female",
+    "Population": 21950,
+    "Population Percentage": 3.224408552
+  },
+  {
+    "Location": "South West",
+    "Gender": "Male",
+    "Population": 14935,
+    "Population Percentage": 2.193919897
+  }
+]

@@ -1,0 +1,687 @@
+"Religion by sex, national to local authority 2021",,,
+,,,"This isn't what I need at all 
+(please specify)"
+,,,
+Location Code,Location Name,Sex,Other Religion
+K04000001,England and Wales,Female,195515
+K04000001,England and Wales,Male,152820
+E92000001,England,Female,186110
+E92000001,England,Male,146300
+W92000004,Wales,Female,9405
+W92000004,Wales,Male,6520
+E12000001,North East,Female,5755
+E12000001,North East,Male,4195
+E12000002,North West,Female,15915
+E12000002,North West,Male,12185
+E12000003,Yorkshire and The Humber,Female,13260
+E12000003,Yorkshire and The Humber,Male,10360
+E12000004,East Midlands,Female,14190
+E12000004,East Midlands,Male,10625
+E12000005,West Midlands,Female,17455
+E12000005,West Midlands,Male,14350
+E12000006,East of England,Female,20540
+E12000006,East of England,Male,15840
+E12000007,London,Female,46325
+E12000007,London,Male,40435
+E12000008,South East,Female,30720
+E12000008,South East,Male,23375
+E12000009,South West,Female,21950
+E12000009,South West,Male,14935
+E06000001,Hartlepool,Female,175
+E06000001,Hartlepool,Male,110
+E06000002,Middlesbrough,Female,250
+E06000002,Middlesbrough,Male,210
+E06000003,Redcar and Cleveland,Female,290
+E06000003,Redcar and Cleveland,Male,205
+E06000004,Stockton-on-Tees,Female,325
+E06000004,Stockton-on-Tees,Male,225
+E06000005,Darlington,Female,225
+E06000005,Darlington,Male,180
+E06000006,Halton,Female,235
+E06000006,Halton,Male,215
+E06000007,Warrington,Female,460
+E06000007,Warrington,Male,330
+E06000008,Blackburn with Darwen,Female,250
+E06000008,Blackburn with Darwen,Male,190
+E06000009,Blackpool,Female,395
+E06000009,Blackpool,Male,310
+E06000010,Kingston upon Hull,Female,610
+E06000010,Kingston upon Hull,Male,515
+E06000011,East Riding of Yorkshire,Female,700
+E06000011,East Riding of Yorkshire,Male,525
+E06000012,North East Lincolnshire,Female,385
+E06000012,North East Lincolnshire,Male,265
+E06000013,North Lincolnshire,Female,355
+E06000013,North Lincolnshire,Male,255
+E06000014,York,Female,690
+E06000014,York,Male,575
+E06000015,Derby,Female,770
+E06000015,Derby,Male,525
+E06000016,Leicester,Female,1100
+E06000016,Leicester,Male,975
+E06000017,Rutland,Female,90
+E06000017,Rutland,Male,110
+E06000018,Nottingham,Female,1215
+E06000018,Nottingham,Male,1050
+E06000019,Herefordshire,Female,540
+E06000019,Herefordshire,Male,360
+E06000020,Telford and Wrekin,Female,530
+E06000020,Telford and Wrekin,Male,400
+E06000021,Stoke-on-Trent,Female,685
+E06000021,Stoke-on-Trent,Male,465
+E06000022,Bath and North East Somerset,Female,675
+E06000022,Bath and North East Somerset,Male,425
+E06000023,Bristol,Female,1970
+E06000023,Bristol,Male,1575
+E06000024,North Somerset,Female,720
+E06000024,North Somerset,Male,445
+E06000025,South Gloucestershire,Female,750
+E06000025,South Gloucestershire,Male,570
+E06000026,Plymouth,Female,965
+E06000026,Plymouth,Male,565
+E06000027,Torbay,Female,625
+E06000027,Torbay,Male,355
+E06000030,Swindon,Female,825
+E06000030,Swindon,Male,690
+E06000031,Peterborough,Female,580
+E06000031,Peterborough,Male,420
+E06000032,Luton,Female,575
+E06000032,Luton,Male,540
+E06000033,Southend-on-Sea,Female,685
+E06000033,Southend-on-Sea,Male,440
+E06000034,Thurrock,Female,475
+E06000034,Thurrock,Male,425
+E06000035,Medway,Female,955
+E06000035,Medway,Male,750
+E06000036,Bracknell Forest,Female,410
+E06000036,Bracknell Forest,Male,335
+E06000037,West Berkshire,Female,425
+E06000037,West Berkshire,Male,280
+E06000038,Reading,Female,645
+E06000038,Reading,Male,595
+E06000039,Slough,Female,370
+E06000039,Slough,Male,345
+E06000040,Windsor and Maidenhead,Female,395
+E06000040,Windsor and Maidenhead,Male,295
+E06000041,Wokingham,Female,440
+E06000041,Wokingham,Male,335
+E06000042,Milton Keynes,Female,900
+E06000042,Milton Keynes,Male,660
+E06000043,Brighton and Hove,Female,1650
+E06000043,Brighton and Hove,Male,1210
+E06000044,Portsmouth,Female,740
+E06000044,Portsmouth,Male,520
+E06000045,Southampton,Female,935
+E06000045,Southampton,Male,725
+E06000046,Isle of Wight,Female,670
+E06000046,Isle of Wight,Male,445
+E06000047,County Durham,Female,1290
+E06000047,County Durham,Male,910
+E06000049,Cheshire East,Female,970
+E06000049,Cheshire East,Male,590
+E06000050,Cheshire West and Chester,Female,710
+E06000050,Cheshire West and Chester,Male,525
+E06000051,Shropshire,Female,855
+E06000051,Shropshire,Male,630
+E06000052,Cornwall and Isles of Scilly,Female,2720
+E06000052,Cornwall and Isles of Scilly,Male,1680
+E06000054,Wiltshire,Female,1820
+E06000054,Wiltshire,Male,1405
+E06000055,Bedford,Female,1045
+E06000055,Bedford,Male,970
+E06000056,Central Bedfordshire,Female,820
+E06000056,Central Bedfordshire,Male,545
+E06000057,Northumberland,Female,765
+E06000057,Northumberland,Male,585
+E06000058,"Bournemouth, Christchurch and Poole",Female,1765
+E06000058,"Bournemouth, Christchurch and Poole",Male,1180
+E06000059,Dorset,Female,1390
+E06000059,Dorset,Male,970
+E06000060,Buckinghamshire,Female,1405
+E06000060,Buckinghamshire,Male,1180
+E06000061,North Northamptonshire,Female,1060
+E06000061,North Northamptonshire,Male,840
+E06000062,West Northamptonshire,Female,1355
+E06000062,West Northamptonshire,Male,1050
+E07000008,Cambridge,Female,630
+E07000008,Cambridge,Male,490
+E07000009,East Cambridgeshire,Female,280
+E07000009,East Cambridgeshire,Male,215
+E07000010,Fenland,Female,285
+E07000010,Fenland,Male,230
+E07000011,Huntingdonshire,Female,495
+E07000011,Huntingdonshire,Male,405
+E07000012,South Cambridgeshire,Female,470
+E07000012,South Cambridgeshire,Male,350
+E07000026,Allerdale,Female,185
+E07000026,Allerdale,Male,115
+E07000027,Barrow-in-Furness,Female,145
+E07000027,Barrow-in-Furness,Male,100
+E07000028,Carlisle,Female,245
+E07000028,Carlisle,Male,165
+E07000029,Copeland,Female,140
+E07000029,Copeland,Male,100
+E07000030,Eden,Female,130
+E07000030,Eden,Male,115
+E07000031,South Lakeland,Female,270
+E07000031,South Lakeland,Male,190
+E07000032,Amber Valley,Female,440
+E07000032,Amber Valley,Male,280
+E07000033,Bolsover,Female,190
+E07000033,Bolsover,Male,145
+E07000034,Chesterfield,Female,280
+E07000034,Chesterfield,Male,215
+E07000035,Derbyshire Dales,Female,195
+E07000035,Derbyshire Dales,Male,135
+E07000036,Erewash,Female,355
+E07000036,Erewash,Male,245
+E07000037,High Peak,Female,290
+E07000037,High Peak,Male,200
+E07000038,North East Derbyshire,Female,270
+E07000038,North East Derbyshire,Male,130
+E07000039,South Derbyshire,Female,290
+E07000039,South Derbyshire,Male,205
+E07000040,East Devon,Female,490
+E07000040,East Devon,Male,320
+E07000041,Exeter,Female,505
+E07000041,Exeter,Male,360
+E07000042,Mid Devon,Female,310
+E07000042,Mid Devon,Male,195
+E07000043,North Devon,Female,360
+E07000043,North Devon,Male,210
+E07000044,South Hams,Female,445
+E07000044,South Hams,Male,295
+E07000045,Teignbridge,Female,580
+E07000045,Teignbridge,Male,375
+E07000046,Torridge,Female,260
+E07000046,Torridge,Male,175
+E07000047,West Devon,Female,270
+E07000047,West Devon,Male,190
+E07000061,Eastbourne,Female,455
+E07000061,Eastbourne,Male,295
+E07000062,Hastings,Female,475
+E07000062,Hastings,Male,340
+E07000063,Lewes,Female,450
+E07000063,Lewes,Male,305
+E07000064,Rother,Female,310
+E07000064,Rother,Male,205
+E07000065,Wealden,Female,725
+E07000065,Wealden,Male,575
+E07000066,Basildon,Female,440
+E07000066,Basildon,Male,290
+E07000067,Braintree,Female,390
+E07000067,Braintree,Male,285
+E07000068,Brentwood,Female,155
+E07000068,Brentwood,Male,105
+E07000069,Castle Point,Female,205
+E07000069,Castle Point,Male,135
+E07000070,Chelmsford,Female,430
+E07000070,Chelmsford,Male,330
+E07000071,Colchester,Female,660
+E07000071,Colchester,Male,485
+E07000072,Epping Forest,Female,465
+E07000072,Epping Forest,Male,405
+E07000073,Harlow,Female,325
+E07000073,Harlow,Male,285
+E07000074,Maldon,Female,180
+E07000074,Maldon,Male,95
+E07000075,Rochford,Female,200
+E07000075,Rochford,Male,135
+E07000076,Tendring,Female,425
+E07000076,Tendring,Male,270
+E07000077,Uttlesford,Female,235
+E07000077,Uttlesford,Male,145
+E07000078,Cheltenham,Female,375
+E07000078,Cheltenham,Male,245
+E07000079,Cotswold,Female,245
+E07000079,Cotswold,Male,175
+E07000080,Forest of Dean,Female,310
+E07000080,Forest of Dean,Male,210
+E07000081,Gloucester,Female,380
+E07000081,Gloucester,Male,275
+E07000082,Stroud,Female,535
+E07000082,Stroud,Male,365
+E07000083,Tewkesbury,Female,235
+E07000083,Tewkesbury,Male,160
+E07000084,Basingstoke and Deane,Female,650
+E07000084,Basingstoke and Deane,Male,490
+E07000085,East Hampshire,Female,370
+E07000085,East Hampshire,Male,220
+E07000086,Eastleigh,Female,345
+E07000086,Eastleigh,Male,285
+E07000087,Fareham,Female,280
+E07000087,Fareham,Male,215
+E07000088,Gosport,Female,330
+E07000088,Gosport,Male,190
+E07000089,Hart,Female,225
+E07000089,Hart,Male,180
+E07000090,Havant,Female,390
+E07000090,Havant,Male,230
+E07000091,New Forest,Female,625
+E07000091,New Forest,Male,380
+E07000092,Rushmoor,Female,615
+E07000092,Rushmoor,Male,630
+E07000093,Test Valley,Female,335
+E07000093,Test Valley,Male,260
+E07000094,Winchester,Female,400
+E07000094,Winchester,Male,275
+E07000095,Broxbourne,Female,830
+E07000095,Broxbourne,Male,770
+E07000096,Dacorum,Female,455
+E07000096,Dacorum,Male,295
+E07000098,Hertsmere,Female,580
+E07000098,Hertsmere,Male,540
+E07000099,North Hertfordshire,Female,445
+E07000099,North Hertfordshire,Male,285
+E07000102,Three Rivers,Female,445
+E07000102,Three Rivers,Male,425
+E07000103,Watford,Female,445
+E07000103,Watford,Male,410
+E07000105,Ashford,Female,800
+E07000105,Ashford,Male,730
+E07000106,Canterbury,Female,650
+E07000106,Canterbury,Male,495
+E07000107,Dartford,Female,255
+E07000107,Dartford,Male,210
+E07000108,Dover,Female,380
+E07000108,Dover,Male,270
+E07000109,Gravesham,Female,365
+E07000109,Gravesham,Male,300
+E07000110,Maidstone,Female,580
+E07000110,Maidstone,Male,540
+E07000111,Sevenoaks,Female,270
+E07000111,Sevenoaks,Male,145
+E07000112,Folkestone and Hythe,Female,530
+E07000112,Folkestone and Hythe,Male,445
+E07000113,Swale,Female,365
+E07000113,Swale,Male,305
+E07000114,Thanet,Female,505
+E07000114,Thanet,Male,360
+E07000115,Tonbridge and Malling,Female,310
+E07000115,Tonbridge and Malling,Male,200
+E07000116,Tunbridge Wells,Female,320
+E07000116,Tunbridge Wells,Male,240
+E07000117,Burnley,Female,205
+E07000117,Burnley,Male,150
+E07000118,Chorley,Female,260
+E07000118,Chorley,Male,275
+E07000119,Fylde,Female,180
+E07000119,Fylde,Male,145
+E07000120,Hyndburn,Female,200
+E07000120,Hyndburn,Male,140
+E07000121,Lancaster,Female,465
+E07000121,Lancaster,Male,345
+E07000122,Pendle,Female,175
+E07000122,Pendle,Male,180
+E07000123,Preston,Female,345
+E07000123,Preston,Male,265
+E07000124,Ribble Valley,Female,90
+E07000124,Ribble Valley,Male,70
+E07000125,Rossendale,Female,200
+E07000125,Rossendale,Male,130
+E07000126,South Ribble,Female,230
+E07000126,South Ribble,Male,150
+E07000127,West Lancashire,Female,215
+E07000127,West Lancashire,Male,145
+E07000128,Wyre,Female,270
+E07000128,Wyre,Male,210
+E07000129,Blaby,Female,245
+E07000129,Blaby,Male,165
+E07000130,Charnwood,Female,545
+E07000130,Charnwood,Male,410
+E07000131,Harborough,Female,220
+E07000131,Harborough,Male,160
+E07000132,Hinckley and Bosworth,Female,330
+E07000132,Hinckley and Bosworth,Male,230
+E07000133,Melton,Female,115
+E07000133,Melton,Male,65
+E07000134,North West Leicestershire,Female,270
+E07000134,North West Leicestershire,Male,195
+E07000135,Oadby and Wigston,Female,180
+E07000135,Oadby and Wigston,Male,150
+E07000136,Boston,Female,155
+E07000136,Boston,Male,125
+E07000137,East Lindsey,Female,420
+E07000137,East Lindsey,Male,270
+E07000138,Lincoln,Female,460
+E07000138,Lincoln,Male,335
+E07000139,North Kesteven,Female,325
+E07000139,North Kesteven,Male,225
+E07000140,South Holland,Female,270
+E07000140,South Holland,Male,145
+E07000141,South Kesteven,Female,340
+E07000141,South Kesteven,Male,235
+E07000142,West Lindsey,Female,280
+E07000142,West Lindsey,Male,200
+E07000143,Breckland,Female,470
+E07000143,Breckland,Male,335
+E07000144,Broadland,Female,335
+E07000144,Broadland,Male,240
+E07000145,Great Yarmouth,Female,330
+E07000145,Great Yarmouth,Male,210
+E07000146,King's Lynn and West Norfolk,Female,470
+E07000146,King's Lynn and West Norfolk,Male,325
+E07000147,North Norfolk,Female,380
+E07000147,North Norfolk,Male,260
+E07000148,Norwich,Female,720
+E07000148,Norwich,Male,565
+E07000149,South Norfolk,Female,405
+E07000149,South Norfolk,Male,260
+E07000163,Craven,Female,150
+E07000163,Craven,Male,105
+E07000164,Hambleton,Female,185
+E07000164,Hambleton,Male,140
+E07000165,Harrogate,Female,370
+E07000165,Harrogate,Male,300
+E07000166,Richmondshire,Female,135
+E07000166,Richmondshire,Male,220
+E07000167,Ryedale,Female,145
+E07000167,Ryedale,Male,90
+E07000168,Scarborough,Female,335
+E07000168,Scarborough,Male,215
+E07000169,Selby,Female,220
+E07000169,Selby,Male,145
+E07000170,Ashfield,Female,350
+E07000170,Ashfield,Male,245
+E07000171,Bassetlaw,Female,270
+E07000171,Bassetlaw,Male,205
+E07000172,Broxtowe,Female,315
+E07000172,Broxtowe,Male,225
+E07000173,Gedling,Female,305
+E07000173,Gedling,Male,245
+E07000174,Mansfield,Female,255
+E07000174,Mansfield,Male,235
+E07000175,Newark and Sherwood,Female,305
+E07000175,Newark and Sherwood,Male,210
+E07000176,Rushcliffe,Female,330
+E07000176,Rushcliffe,Male,255
+E07000177,Cherwell,Female,445
+E07000177,Cherwell,Male,375
+E07000178,Oxford,Female,810
+E07000178,Oxford,Male,640
+E07000179,South Oxfordshire,Female,400
+E07000179,South Oxfordshire,Male,270
+E07000180,Vale of White Horse,Female,355
+E07000180,Vale of White Horse,Male,330
+E07000181,West Oxfordshire,Female,345
+E07000181,West Oxfordshire,Male,260
+E07000187,Mendip,Female,895
+E07000187,Mendip,Male,515
+E07000188,Sedgemoor,Female,400
+E07000188,Sedgemoor,Male,290
+E07000189,South Somerset,Female,620
+E07000189,South Somerset,Male,350
+E07000192,Cannock Chase,Female,270
+E07000192,Cannock Chase,Male,175
+E07000193,East Staffordshire,Female,285
+E07000193,East Staffordshire,Male,255
+E07000194,Lichfield,Female,240
+E07000194,Lichfield,Male,200
+E07000195,Newcastle-under-Lyme,Female,310
+E07000195,Newcastle-under-Lyme,Male,225
+E07000196,South Staffordshire,Female,240
+E07000196,South Staffordshire,Male,225
+E07000197,Stafford,Female,375
+E07000197,Stafford,Male,310
+E07000198,Staffordshire Moorlands,Female,235
+E07000198,Staffordshire Moorlands,Male,160
+E07000199,Tamworth,Female,190
+E07000199,Tamworth,Male,120
+E07000200,Babergh,Female,245
+E07000200,Babergh,Male,155
+E07000202,Ipswich,Female,470
+E07000202,Ipswich,Male,370
+E07000203,Mid Suffolk,Female,230
+E07000203,Mid Suffolk,Male,195
+E07000207,Elmbridge,Female,360
+E07000207,Elmbridge,Male,250
+E07000208,Epsom and Ewell,Female,190
+E07000208,Epsom and Ewell,Male,140
+E07000209,Guildford,Female,390
+E07000209,Guildford,Male,290
+E07000210,Mole Valley,Female,215
+E07000210,Mole Valley,Male,145
+E07000211,Reigate and Banstead,Female,335
+E07000211,Reigate and Banstead,Male,300
+E07000212,Runnymede,Female,260
+E07000212,Runnymede,Male,190
+E07000213,Spelthorne,Female,295
+E07000213,Spelthorne,Male,225
+E07000214,Surrey Heath,Female,285
+E07000214,Surrey Heath,Male,210
+E07000215,Tandridge,Female,200
+E07000215,Tandridge,Male,140
+E07000216,Waverley,Female,335
+E07000216,Waverley,Male,270
+E07000217,Woking,Female,270
+E07000217,Woking,Male,230
+E07000218,North Warwickshire,Female,165
+E07000218,North Warwickshire,Male,105
+E07000219,Nuneaton and Bedworth,Female,465
+E07000219,Nuneaton and Bedworth,Male,385
+E07000220,Rugby,Female,330
+E07000220,Rugby,Male,270
+E07000221,Stratford-on-Avon,Female,340
+E07000221,Stratford-on-Avon,Male,230
+E07000222,Warwick,Female,435
+E07000222,Warwick,Male,340
+E07000223,Adur,Female,235
+E07000223,Adur,Male,155
+E07000224,Arun,Female,520
+E07000224,Arun,Male,340
+E07000225,Chichester,Female,390
+E07000225,Chichester,Male,275
+E07000226,Crawley,Female,355
+E07000226,Crawley,Male,280
+E07000227,Horsham,Female,390
+E07000227,Horsham,Male,265
+E07000228,Mid Sussex,Female,635
+E07000228,Mid Sussex,Male,490
+E07000229,Worthing,Female,470
+E07000229,Worthing,Male,305
+E07000234,Bromsgrove,Female,225
+E07000234,Bromsgrove,Male,165
+E07000235,Malvern Hills,Female,265
+E07000235,Malvern Hills,Male,145
+E07000236,Redditch,Female,235
+E07000236,Redditch,Male,150
+E07000237,Worcester,Female,270
+E07000237,Worcester,Male,180
+E07000238,Wychavon,Female,305
+E07000238,Wychavon,Male,250
+E07000239,Wyre Forest,Female,290
+E07000239,Wyre Forest,Male,185
+E07000240,St Albans,Female,405
+E07000240,St Albans,Male,305
+E07000241,Welwyn Hatfield,Female,470
+E07000241,Welwyn Hatfield,Male,350
+E07000242,East Hertfordshire,Female,385
+E07000242,East Hertfordshire,Male,270
+E07000243,Stevenage,Female,285
+E07000243,Stevenage,Male,240
+E07000244,East Suffolk,Female,770
+E07000244,East Suffolk,Male,615
+E07000245,West Suffolk,Female,535
+E07000245,West Suffolk,Male,430
+E07000246,Somerset West and Taunton,Female,520
+E07000246,Somerset West and Taunton,Male,370
+E08000001,Bolton,Female,565
+E08000001,Bolton,Male,415
+E08000002,Bury,Female,355
+E08000002,Bury,Male,295
+E08000003,Manchester,Female,1415
+E08000003,Manchester,Male,1320
+E08000004,Oldham,Female,325
+E08000004,Oldham,Male,265
+E08000005,Rochdale,Female,395
+E08000005,Rochdale,Male,280
+E08000006,Salford,Female,580
+E08000006,Salford,Male,485
+E08000007,Stockport,Female,685
+E08000007,Stockport,Male,520
+E08000008,Tameside,Female,480
+E08000008,Tameside,Male,400
+E08000009,Trafford,Female,515
+E08000009,Trafford,Male,400
+E08000010,Wigan,Female,625
+E08000010,Wigan,Male,475
+E08000011,Knowsley,Female,160
+E08000011,Knowsley,Male,125
+E08000012,Liverpool,Female,1075
+E08000012,Liverpool,Male,920
+E08000013,St. Helens,Female,365
+E08000013,St. Helens,Male,285
+E08000014,Sefton,Female,625
+E08000014,Sefton,Male,355
+E08000015,Wirral,Female,775
+E08000015,Wirral,Male,480
+E08000016,Barnsley,Female,505
+E08000016,Barnsley,Male,355
+E08000017,Doncaster,Female,960
+E08000017,Doncaster,Male,765
+E08000018,Rotherham,Female,545
+E08000018,Rotherham,Male,390
+E08000019,Sheffield,Female,1465
+E08000019,Sheffield,Male,1170
+E08000021,Newcastle upon Tyne,Female,720
+E08000021,Newcastle upon Tyne,Male,565
+E08000022,North Tyneside,Female,465
+E08000022,North Tyneside,Male,310
+E08000023,South Tyneside,Female,300
+E08000023,South Tyneside,Male,220
+E08000024,Sunderland,Female,480
+E08000024,Sunderland,Male,355
+E08000025,Birmingham,Female,3290
+E08000025,Birmingham,Male,3075
+E08000026,Coventry,Female,1030
+E08000026,Coventry,Male,875
+E08000027,Dudley,Female,865
+E08000027,Dudley,Male,595
+E08000028,Sandwell,Female,1290
+E08000028,Sandwell,Male,1140
+E08000029,Solihull,Female,470
+E08000029,Solihull,Male,350
+E08000030,Walsall,Female,835
+E08000030,Walsall,Male,825
+E08000031,Wolverhampton,Female,1600
+E08000031,Wolverhampton,Male,1560
+E08000032,Bradford,Female,1165
+E08000032,Bradford,Male,910
+E08000033,Calderdale,Female,590
+E08000033,Calderdale,Male,455
+E08000034,Kirklees,Female,935
+E08000034,Kirklees,Male,730
+E08000035,Leeds,Female,2030
+E08000035,Leeds,Male,1610
+E08000036,Wakefield,Female,785
+E08000036,Wakefield,Male,620
+E08000037,Gateshead,Female,470
+E08000037,Gateshead,Male,325
+E09000001,City of London and Westminster,Female,970
+E09000001,City of London and Westminster,Male,825
+E09000002,Barking and Dagenham,Female,555
+E09000002,Barking and Dagenham,Male,425
+E09000003,Barnet,Female,2740
+E09000003,Barnet,Male,2455
+E09000004,Bexley,Female,575
+E09000004,Bexley,Male,415
+E09000005,Brent,Female,2360
+E09000005,Brent,Male,2065
+E09000006,Bromley,Female,965
+E09000006,Bromley,Male,735
+E09000007,Camden,Female,1025
+E09000007,Camden,Male,815
+E09000008,Croydon,Female,1705
+E09000008,Croydon,Male,1485
+E09000009,Ealing,Female,1450
+E09000009,Ealing,Male,1285
+E09000010,Enfield,Female,5305
+E09000010,Enfield,Male,5045
+E09000011,Greenwich,Female,985
+E09000011,Greenwich,Male,820
+E09000012,Hackney,Female,2555
+E09000012,Hackney,Male,2325
+E09000013,Hammersmith and Fulham,Female,695
+E09000013,Hammersmith and Fulham,Male,530
+E09000014,Haringey,Female,3155
+E09000014,Haringey,Male,3010
+E09000015,Harrow,Female,4055
+E09000015,Harrow,Male,3640
+E09000016,Havering,Female,585
+E09000016,Havering,Male,470
+E09000017,Hillingdon,Female,1430
+E09000017,Hillingdon,Male,1255
+E09000018,Hounslow,Female,1255
+E09000018,Hounslow,Male,1070
+E09000019,Islington,Female,1630
+E09000019,Islington,Male,1300
+E09000020,Kensington and Chelsea,Female,585
+E09000020,Kensington and Chelsea,Male,480
+E09000021,Kingston upon Thames,Female,600
+E09000021,Kingston upon Thames,Male,520
+E09000022,Lambeth,Female,1270
+E09000022,Lambeth,Male,1080
+E09000023,Lewisham,Female,1275
+E09000023,Lewisham,Male,995
+E09000024,Merton,Female,680
+E09000024,Merton,Male,525
+E09000025,Newham,Female,900
+E09000025,Newham,Male,865
+E09000026,Redbridge,Female,1035
+E09000026,Redbridge,Male,990
+E09000027,Richmond upon Thames,Female,735
+E09000027,Richmond upon Thames,Male,540
+E09000028,Southwark,Female,1155
+E09000028,Southwark,Male,995
+E09000029,Sutton,Female,695
+E09000029,Sutton,Male,550
+E09000030,Tower Hamlets,Female,880
+E09000030,Tower Hamlets,Male,775
+E09000031,Waltham Forest,Female,1475
+E09000031,Waltham Forest,Male,1335
+E09000032,Wandsworth,Female,1045
+E09000032,Wandsworth,Male,825
+W06000001,Isle of Anglesey,Female,175
+W06000001,Isle of Anglesey,Male,100
+W06000002,Gwynedd,Female,455
+W06000002,Gwynedd,Male,315
+W06000003,Conwy,Female,390
+W06000003,Conwy,Male,235
+W06000004,Denbighshire,Female,290
+W06000004,Denbighshire,Male,195
+W06000005,Flintshire,Female,295
+W06000005,Flintshire,Male,180
+W06000006,Wrexham,Female,260
+W06000006,Wrexham,Male,255
+W06000008,Ceredigion,Female,415
+W06000008,Ceredigion,Male,265
+W06000009,Pembrokeshire,Female,445
+W06000009,Pembrokeshire,Male,305
+W06000010,Carmarthenshire,Female,680
+W06000010,Carmarthenshire,Male,445
+W06000011,Swansea,Female,660
+W06000011,Swansea,Male,515
+W06000012,Neath Port Talbot,Female,380
+W06000012,Neath Port Talbot,Male,250
+W06000013,Bridgend,Female,410
+W06000013,Bridgend,Male,285
+W06000014,Vale of Glamorgan,Female,355
+W06000014,Vale of Glamorgan,Male,285
+W06000015,Cardiff,Female,1085
+W06000015,Cardiff,Male,940
+W06000016,Rhondda Cynon Taf,Female,670
+W06000016,Rhondda Cynon Taf,Male,415
+W06000018,Caerphilly,Female,480
+W06000018,Caerphilly,Male,285
+W06000019,Blaenau Gwent,Female,195
+W06000019,Blaenau Gwent,Male,115
+W06000020,Torfaen,Female,315
+W06000020,Torfaen,Male,175
+W06000021,Monmouthshire,Female,310
+W06000021,Monmouthshire,Male,210
+W06000022,Newport,Female,435
+W06000022,Newport,Male,305
+W06000023,Powys,Female,565
+W06000023,Powys,Male,370
+W06000024,Merthyr Tydfil,Female,140
+W06000024,Merthyr Tydfil,Male,90

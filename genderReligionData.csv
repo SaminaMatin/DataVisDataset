@@ -1,0 +1,342 @@
+location,gender,religion,population
+England,Male,Buddhist,0.420030
+Wales,Female,Buddhist,0.347623
+Wales,Male,Buddhist,0.299803
+North East,Female,Buddhist,0.282207
+North East,Male,Buddhist,0.248183
+North West,Female,Buddhist,0.336620
+North West,Male,Buddhist,0.283368
+Yorkshire and The Humber,Female,Buddhist,0.309849
+Yorkshire and The Humber,Male,Buddhist,0.266075
+East Midlands,Female,Buddhist,0.323463
+East Midlands,Male,Buddhist,0.270795
+West Midlands,Female,Buddhist,0.337392
+West Midlands,Male,Buddhist,0.293931
+East of England,Female,Buddhist,0.474119
+East of England,Male,Buddhist,0.370457
+London,Female,Buddhist,0.964997
+London,Male,Buddhist,0.789459
+South East,Female,Buddhist,0.639189
+South East,Male,Buddhist,0.531917
+South West,Female,Buddhist,0.465388
+South West,Male,Buddhist,0.395392
+Isle of Anglesey,Female,Buddhist,0.241340
+Isle of Anglesey,Male,Buddhist,0.207962
+Gwynedd,Female,Buddhist,0.417571
+Gwynedd,Male,Buddhist,0.304216
+Wrexham,Female,Buddhist,0.315041
+Wrexham,Male,Buddhist,0.284091
+Ceredigion,Female,Buddhist,0.588880
+Ceredigion,Male,Buddhist,0.457535
+Swansea,Female,Buddhist,0.409209
+Swansea,Male,Buddhist,0.378643
+Cardiff,Female,Buddhist,0.498746
+Cardiff,Male,Buddhist,0.398643
+Newport,Female,Buddhist,0.307977
+Newport,Male,Buddhist,0.293255
+Powys,Female,Buddhist,0.466909
+Powys,Male,Buddhist,0.426180
+England,Female,Christian,49.497168
+England,Male,Christian,43.013746
+Wales,Female,Christian,47.108397
+Wales,Male,Christian,39.934254
+North East,Female,Christian,54.106596
+North East,Male,Christian,47.282357
+North West,Female,Christian,55.924077
+North West,Male,Christian,48.992209
+Yorkshire and The Humber,Female,Christian,48.045893
+Yorkshire and The Humber,Male,Christian,41.658145
+East Midlands,Female,Christian,48.554605
+East Midlands,Male,Christian,42.088141
+West Midlands,Female,Christian,49.627380
+West Midlands,Male,Christian,43.388692
+East of England,Female,Christian,49.957947
+East of England,Male,Christian,43.205369
+London,Female,Christian,43.143181
+London,Male,Christian,38.016783
+South East,Female,Christian,49.954102
+South East,Male,Christian,42.872438
+South West,Female,Christian,49.709948
+South West,Male,Christian,42.605753
+Isle of Anglesey,Female,Christian,54.599659
+Isle of Anglesey,Male,Christian,48.291741
+Gwynedd,Female,Christian,49.774511
+Gwynedd,Male,Christian,42.503259
+Wrexham,Female,Christian,52.831709
+Wrexham,Male,Christian,46.090012
+Ceredigion,Female,Christian,49.917831
+Ceredigion,Male,Christian,43.422934
+Swansea,Female,Christian,44.979953
+Swansea,Male,Christian,37.511168
+Cardiff,Female,Christian,41.705982
+Cardiff,Male,Christian,34.795024
+Newport,Female,Christian,45.851555
+Newport,Male,Christian,39.614943
+Powys,Female,Christian,52.656933
+Powys,Male,Christian,45.068493
+England,Female,Hindu,1.775248
+England,Male,Hindu,1.839234
+Wales,Female,Hindu,0.367793
+Wales,Male,Hindu,0.421105
+North East,Female,Hindu,0.353128
+North East,Male,Hindu,0.475104
+North West,Female,Hindu,0.651531
+North West,Male,Hindu,0.690633
+Yorkshire and The Humber,Female,Hindu,0.504713
+Yorkshire and The Humber,Male,Hindu,0.563574
+East Midlands,Female,Hindu,2.461792
+East Midlands,Male,Hindu,2.470459
+West Midlands,Female,Hindu,1.460543
+West Midlands,Male,Hindu,1.501592
+East of England,Female,Hindu,1.338251
+East of England,Male,Hindu,1.397823
+London,Female,Hindu,5.060883
+London,Male,Hindu,5.241072
+South East,Female,Hindu,1.631946
+South East,Male,Hindu,1.705350
+South West,Female,Hindu,0.458862
+South West,Male,Hindu,0.515659
+Isle of Anglesey,Female,Hindu,0.099375
+Isle of Anglesey,Male,Hindu,0.089127
+Gwynedd,Female,Hindu,0.208786
+Gwynedd,Male,Hindu,0.225989
+Wrexham,Female,Hindu,0.212470
+Wrexham,Male,Hindu,0.276615
+Ceredigion,Female,Hindu,0.219118
+Ceredigion,Male,Hindu,0.228768
+Swansea,Female,Hindu,0.400942
+Swansea,Male,Hindu,0.446713
+Cardiff,Female,Hindu,1.415361
+Cardiff,Male,Hindu,1.588917
+Newport,Female,Hindu,0.474284
+Newport,Male,Hindu,0.484508
+Powys,Female,Hindu,0.185281
+Powys,Male,Hindu,0.273973
+England,Female,Jewish,0.480861
+England,Male,Jewish,0.472351
+Wales,Female,Jewish,0.061141
+Wales,Male,Jewish,0.070677
+North East,Female,Jewish,0.157726
+North East,Male,Jewish,0.174347
+North West,Female,Jewish,0.445032
+North West,Male,Jewish,0.452592
+Yorkshire and The Humber,Female,Jewish,0.174805
+Yorkshire and The Humber,Male,Jewish,0.166413
+East Midlands,Female,Jewish,0.085557
+East Midlands,Male,Jewish,0.091375
+West Midlands,Female,Jewish,0.071117
+West Midlands,Male,Jewish,0.076514
+East of England,Female,Jewish,0.679503
+East of England,Male,Jewish,0.646127
+London,Female,Jewish,1.658016
+London,Male,Jewish,1.647800
+South East,Female,Jewish,0.203532
+South East,Male,Jewish,0.199152
+South West,Female,Jewish,0.131889
+South West,Male,Jewish,0.127078
+Isle of Anglesey,Female,Jewish,0.042589
+Isle of Anglesey,Male,Jewish,0.044563
+Gwynedd,Female,Jewish,0.041757
+Gwynedd,Male,Jewish,0.060843
+Wrexham,Female,Jewish,0.036633
+Wrexham,Male,Jewish,0.044856
+Ceredigion,Female,Jewish,0.123254
+Ceredigion,Male,Jewish,0.085788
+Swansea,Female,Jewish,0.049601
+Swansea,Male,Jewish,0.085088
+Cardiff,Female,Jewish,0.180627
+Cardiff,Male,Jewish,0.200735
+Newport,Female,Jewish,0.055436
+Newport,Male,Jewish,0.057376
+Powys,Female,Jewish,0.066701
+Powys,Male,Jewish,0.053272
+England,Female,Muslim,6.504695
+England,Male,Muslim,6.962742
+Wales,Female,Muslim,2.006001
+Wales,Male,Muslim,2.309007
+North East,Female,Muslim,2.512901
+North East,Male,Muslim,2.944951
+North West,Female,Muslim,7.322778
+North West,Male,Muslim,7.870714
+Yorkshire and The Humber,Female,Muslim,7.854754
+Yorkshire and The Humber,Male,Muslim,8.302065
+East Midlands,Female,Muslim,4.137223
+East Midlands,Male,Muslim,4.506314
+West Midlands,Female,Muslim,9.365935
+West Midlands,Male,Muslim,9.797066
+East of England,Female,Muslim,3.510894
+East of England,Male,Muslim,3.907498
+London,Female,Muslim,14.565652
+London,Male,Muslim,15.432925
+South East,Female,Muslim,3.145403
+South East,Male,Muslim,3.525036
+South West,Female,Muslim,1.289004
+South West,Male,Muslim,1.527798
+Isle of Anglesey,Female,Muslim,0.397501
+Isle of Anglesey,Male,Muslim,0.549614
+Gwynedd,Female,Muslim,0.843494
+Gwynedd,Male,Muslim,1.103868
+Wrexham,Female,Muslim,0.930471
+Wrexham,Male,Muslim,1.353170
+Ceredigion,Female,Muslim,0.629964
+Ceredigion,Male,Muslim,0.814984
+Swansea,Female,Muslim,2.996735
+Swansea,Male,Muslim,3.463093
+Cardiff,Female,Muslim,8.891165
+Cardiff,Male,Muslim,9.703138
+Newport,Female,Muslim,6.818602
+Newport,Male,Muslim,7.325003
+Powys,Female,Muslim,0.326095
+Powys,Male,Muslim,0.372907
+England,Female,No religion,33.822807
+England,Male,No religion,39.641156
+Wales,Female,No religion,43.303771
+Wales,Male,No religion,49.927022
+North East,Female,No religion,37.075165
+North East,Male,No religion,43.007964
+North West,Female,No religion,29.647059
+North West,Male,No religion,35.706868
+Yorkshire and The Humber,Female,No religion,36.644535
+Yorkshire and The Humber,Male,No religion,42.326029
+East Midlands,Female,No religion,37.095974
+East Midlands,Male,No religion,42.925920
+West Midlands,Female,No religion,30.176734
+West Midlands,Male,No religion,35.616691
+East of England,Female,No religion,37.125456
+East of England,Male,No religion,43.323973
+London,Female,No religion,25.052079
+London,Male,No religion,29.173066
+South East,Female,No religion,37.045404
+South East,Male,No religion,43.566166
+South West,Female,No religion,40.766774
+South West,Male,No religion,47.548156
+Isle of Anglesey,Female,No religion,37.819421
+Isle of Anglesey,Male,No religion,43.820559
+Gwynedd,Female,No religion,40.896943
+Gwynedd,Male,No religion,47.727075
+Wrexham,Female,No religion,38.962561
+Wrexham,Male,No religion,44.691986
+Ceredigion,Female,No religion,39.687757
+Ceredigion,Male,No religion,46.496997
+Swansea,Female,No religion,44.132600
+Swansea,Male,No religion,50.457350
+Cardiff,Female,No religion,40.198959
+Cardiff,Male,No religion,45.821318
+Newport,Female,No religion,40.190945
+Newport,Male,No religion,45.824302
+Powys,Female,No religion,38.427333
+Powys,Male,No religion,45.730594
+England,Female,Sikh,0.900786
+England,Male,Sikh,0.941411
+Wales,Female,Sikh,0.125749
+Wales,Male,Sikh,0.135108
+North East,Female,Sikh,0.261891
+North East,Male,Sikh,0.282975
+North West,Female,Sikh,0.154345
+North West,Male,Sikh,0.165653
+Yorkshire and The Humber,Female,Sikh,0.432534
+Yorkshire and The Humber,Male,Sikh,0.444760
+East Midlands,Female,Sikh,1.086215
+East Midlands,Male,Sikh,1.125434
+West Midlands,Female,Sikh,2.846827
+West Midlands,Male,Sikh,2.948872
+East of England,Female,Sikh,0.374989
+East of England,Male,Sikh,0.392021
+London,Female,Sikh,1.589718
+London,Male,Sikh,1.698759
+South East,Female,Sikh,0.790281
+South East,Male,Sikh,0.812911
+South West,Female,Sikh,0.127252
+South West,Male,Sikh,0.134785
+Isle of Anglesey,Female,Sikh,0.028393
+Isle of Anglesey,Male,Sikh,0.059418
+Gwynedd,Female,Sikh,0.033406
+Gwynedd,Male,Sikh,0.043459
+Wrexham,Female,Sikh,0.058612
+Wrexham,Male,Sikh,0.059809
+Ceredigion,Female,Sikh,0.041085
+Ceredigion,Male,Sikh,0.057192
+Swansea,Female,Sikh,0.136403
+Swansea,Male,Sikh,0.153159
+Cardiff,Female,Sikh,0.423260
+Cardiff,Male,Sikh,0.415606
+Newport,Female,Sikh,0.264860
+Newport,Male,Sikh,0.255004
+Powys,Female,Sikh,0.059290
+Powys,Male,Sikh,0.045662
+England,Female,Other religion,0.645460
+England,Male,Other religion,0.528993
+Wales,Female,Other religion,0.592818
+Wales,Male,Other religion,0.428665
+North East,Female,Other religion,0.425158
+North East,Male,Other religion,0.324339
+North West,Female,Other religion,0.421338
+North West,Male,Other religion,0.334740
+Yorkshire and The Humber,Female,Other religion,0.474982
+Yorkshire and The Humber,Male,Other religion,0.385260
+East Midlands,Female,Other religion,0.572669
+East Midlands,Male,Other religion,0.442306
+West Midlands,Female,Other religion,0.577370
+West Midlands,Male,Other religion,0.490169
+East of England,Female,Other religion,0.636289
+East of England,Male,Other religion,0.509821
+London,Female,Other religion,1.022261
+London,Male,Other religion,0.947374
+South East,Female,Other religion,0.648263
+South East,Male,Other religion,0.514953
+South West,Female,Other religion,0.753894
+South West,Male,Other religion,0.535375
+Isle of Anglesey,Female,Other religion,0.496877
+Isle of Anglesey,Male,Other religion,0.297089
+Gwynedd,Female,Other religion,0.759980
+Gwynedd,Male,Other religion,0.547588
+Wrexham,Female,Other religion,0.380980
+Wrexham,Male,Other religion,0.381280
+Ceredigion,Female,Other religion,1.136675
+Ceredigion,Male,Other religion,0.757792
+Swansea,Female,Other religion,0.545612
+Swansea,Male,Other religion,0.438205
+Cardiff,Female,Other religion,0.585016
+Cardiff,Male,Other religion,0.531524
+Newport,Female,Other religion,0.535879
+Newport,Male,Other religion,0.388882
+Powys,Female,Other religion,0.837471
+Powys,Male,Other religion,0.563166
+England,Female,Not answered,5.865686
+England,Male,Not answered,6.180336
+Wales,Female,Not answered,6.086707
+Wales,Male,Not answered,6.474359
+North East,Female,Not answered,4.825227
+North East,Male,Not answered,5.259780
+North West,Female,Not answered,5.097220
+North West,Male,Not answered,5.503222
+Yorkshire and The Humber,Female,Not answered,5.557934
+Yorkshire and The Humber,Male,Not answered,5.887679
+East Midlands,Female,Not answered,5.682502
+East Midlands,Male,Not answered,6.079257
+West Midlands,Female,Not answered,5.536701
+West Midlands,Male,Not answered,5.886472
+East of England,Female,Not answered,5.902552
+East of England,Male,Not answered,6.246912
+London,Female,Not answered,6.943212
+London,Male,Not answered,7.052762
+South East,Female,Not answered,5.941880
+South East,Male,Not answered,6.272078
+South West,Female,Not answered,6.296990
+South West,Male,Not answered,6.610005
+Isle of Anglesey,Female,Not answered,6.274844
+Isle of Anglesey,Male,Not answered,6.639929
+Gwynedd,Female,Not answered,7.023551
+Gwynedd,Male,Not answered,7.483703
+Wrexham,Female,Not answered,6.271522
+Wrexham,Male,Not answered,6.818182
+Ceredigion,Female,Not answered,7.655437
+Ceredigion,Male,Not answered,7.678010
+Swansea,Female,Not answered,6.348944
+Swansea,Male,Not answered,7.066582
+Cardiff,Female,Not answered,6.100882
+Cardiff,Male,Not answered,6.545095
+Newport,Female,Not answered,5.500462
+Newport,Male,Not answered,5.756726
+Powys,Female,Not answered,6.973987
+Powys,Male,Not answered,7.465753
